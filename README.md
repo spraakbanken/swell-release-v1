@@ -22,13 +22,13 @@ This repository contains (updatable) versions of
 
 * Application form
 * Add users to Korp-user list using https://ws.spraakbanken.gu.se/
-* Add users to XCloud (for one-time download?)
+* Add users to NextCloud (for one-time download?)
 
 ## Links for downloading the files
 
 We store all SweLL files on Nextcloud in a separate folder, which external users can be granted access to.
-* Link: 
-* To add users
+* Link: https://spraakbanken.gu.se/nextcloud/index.php/s/44yw4YBrdWMEgQW
+* To add users: add their mails to NextCloud folder \& to 
 
 ## .zip files for download
 
