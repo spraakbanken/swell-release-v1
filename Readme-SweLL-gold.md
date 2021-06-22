@@ -1,4 +1,4 @@
-# SweLL-gold collection
+# ReadMe: SweLL-gold collection
 
 SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 20017-2021, and contains 502 essays that have been pseudonymized, normalized and correction annotated. 
 More information about this corpus can be found in the *Metadata section* below, and in the articles in the *References* section (Volodina et al., 2019)
@@ -23,7 +23,7 @@ Each format includes a so-called SVALA-link (or full-text link) for each essay. 
 ## Metadata description:
 * https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL
 
-# Cite one of the following when using this corpus
+## Cite one of the following when using this corpus
 * ... Volodina et al. (2019) if you use this corpus
 * ...
 
