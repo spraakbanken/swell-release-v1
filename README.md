@@ -20,14 +20,10 @@ This repository contains (updatable) versions of the following files:
 ## Procedure for providing access to the SweLL corpora
 
 * Application form: 
+
+If approved: 
 * Add Korp-user using https://ws.spraakbanken.gu.se/
-* Add user-mail to the NextCloud-folder (for corpus file download), set password and an expiration date for the access link (≈1 month from the granting day)
-
-## Links for downloading the files
-
-We store all SweLL files on Nextcloud in a separate folder (SweLL-v1), which external users can be granted access to after filing an application
-* Link: https://spraakbanken.gu.se/nextcloud/index.php/s/44yw4YBrdWMEgQW
-* To grant access: add user mails to NextCloud folder including password and expiration date (1 month from granting access?) 
+* Add user-mail to the NextCloud-folder (for corpus file download, SweLL-v1), set password and an expiration date for the access link (≈1 month from the granting day)
 
 ## .zip files for download
 
