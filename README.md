@@ -20,7 +20,7 @@ This repository contains (updatable) versions of the following files:
 ## Procedure for providing access to the SweLL corpora
 
 * Application form: 
-* Add Korp-user list using https://ws.spraakbanken.gu.se/
+* Add Korp-user using https://ws.spraakbanken.gu.se/
 * Add user-mail to the NextCloud-folder (for corpus file download), set password and an expiration date for the access link (≈1 month from the granting day)
 
 ## Links for downloading the files
@@ -40,8 +40,8 @@ The users who have been approved following an access application, will get acces
 ### SweLL-pilot.zip contains
 
 1. files for TISUS, SW1203 and SpIn in three formats: 
-    * json (SVALA) 
-    * xml (Korp) 
+    * json (SVALA format) 
+    * xml (Korp format) 
     * raw text
 2. metadata in an excel file, ordered by essay-IDs; divided into subcorpora per spreadsheet
 3. readme file with links to medata descriptions for each subcorpus and links to articles: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot
@@ -50,8 +50,8 @@ The users who have been approved following an access application, will get acces
 ### SweLL-gold.zip contains
 
 1. SweLL-gold corpus files (502 essays) in three formats: 
-    * json (SVALA); 
-    * two xml files (Korp), one for the original version and one for the normalized version; 
+    * json (SVALA format) 
+    * two xml files (Korp format), one for the original version and one for the normalized version 
     * 2 files with raw texts, one for the original version and one for the normalized version
 2. metadata in an excel file, ordered by essay-IDs
 3. readme file with links to medata description, links to articles: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold
