@@ -26,10 +26,8 @@ Each format includes a so-called SVALA-link (or full-text link) for each essay. 
 * To use SVALA, please have a look at the video: https://gubox.box.com/s/tp5gm8dua0avs7luqbgxwicws5dl0jh5
 * Currently, SVALA manual is available only in Swedish 
 
-
 ## Metadata description:
 * https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL
-
 
 ## Reminder of the access agreement
 * Please note the agreement conditions: 
@@ -37,9 +35,6 @@ Each format includes a so-called SVALA-link (or full-text link) for each essay. 
    * the user needs to be affiliated in EU and work in the context of second language (research, teaching, or development)
    * the data cannot be re-distributed, copied or sold
    * the use of the data has to be acknowledged by citing proper publications, e.g. see References below
-
-## Cite one of the following when using this corpus
-
 
 ## References
 Cite one or several of the following when using this corpus:
