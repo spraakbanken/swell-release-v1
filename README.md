@@ -19,11 +19,12 @@ This repository contains (updatable) versions of the following files:
 
 ## Procedure for providing access to the SweLL corpora
 
-* Application form: 
+* Application form: https://sunet.artologik.net/gu/Survey/11747 
 
 If approved: 
+* Store application file on Nextcloud (specific folder)
 * Add Korp-user using https://ws.spraakbanken.gu.se/
-* Add user-mail to the NextCloud-folder (for corpus file download, SweLL-v1), set password and an expiration date for the access link (≈1 month from the granting day)
+* Add user-mail to the NextCloud-folder (for corpus file download, SweLL-v1), set password and an expiration date for the access link (≈1 month from the granting day) and mail out
 
 ## .zip files for download
 
