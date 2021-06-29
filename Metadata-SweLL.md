@@ -1,4 +1,4 @@
-# **Description of the SweLL corpus**
+# **Metadata description: the SweLL corpus**
 
 _____________________________________________________________________________________
 ## Contents
@@ -50,6 +50,8 @@ the Transcription Guidelines:
 **Time constraints** and access to **allowed materials** varies between tasks (see details in Task Metadata for each particular task).
 
 Pseudonymized essays were **normalized** and **corr-annotated** by L2 specialists.
+
+**Full text** access via Korp is secured through a link to the SVALA annotation tool where the full text opens. Note that the NL sign (␤) marks a new paragraph in the original student writing.
 
 To get information on **access** to the SweLL corpus, see the webpage:
 
