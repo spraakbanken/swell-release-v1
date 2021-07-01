@@ -111,7 +111,7 @@ ________________________________________________________________________________
 |Annotation|transcription, anonymization|
 |Transcription guidelines|see article: [http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)|
 |Written versions|One version of each essay (no several submissions of the same text)|
-|Longitudinal|yes, ina way; (almost) each students write three (3) essays during the same term/course|
+|Longitudinal|yes, in a way: (almost) each students wrote three (3) essays during the same term/course|
 |Proficiency levels|CEFR grades represented: B1, B2, C1, C2|
 |Proficiency level type|Text based|
 |Official language testing|no|
