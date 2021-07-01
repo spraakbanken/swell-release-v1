@@ -16,7 +16,7 @@ ________________________________________________________________________________
   
   - [1.3 To cite SpIn subcorpus](#13-to-cite-SpIn-subcorpus)
 
-[2. Metadata description for the SpIn corpus](#2-metadata-description-for-the-SpIn-corpus)    
+[2. Metadata description for the SpIn subcorpus](#2-metadata-description-for-the-SpIn-subcorpus)    
 
   - [2.1 Administrative information](#21-administrative-information)
   
@@ -84,7 +84,7 @@ ________________________________________________________________________________
 
 
 
-## 2. Metadata description for the SpIn corpus
+## 2. Metadata description for the SpIn subcorpus
 _____________________________________________________________________________________
 
 
@@ -105,6 +105,7 @@ ________________________________________________________________________________
 |**Corpus design info**||
 |L2 target language|Swedish; courses taken in Sweden|
 |L1 (mother tongue)|multiple; represented as iso-codes and usual names|
+|Period of collection|2012-2016|
 |Corpus size|256 essays; 4 327 sentence; 44 996 tokens (incl punctuations)|
 |Corpus mode|written language: essays collected from (classroom/midterm) exams|
 |Annotation|transcription, anonymization|
