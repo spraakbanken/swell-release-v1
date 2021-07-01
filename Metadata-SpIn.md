@@ -1,6 +1,6 @@
 # **Metadata description: SpIn (sub)corpus** 
 
-**a subcorpus in SweLL-pilot**
+**A subcorpus in the SweLL-pilot collection**
 
 *(Elena Volodina, July, 1, 2021)*
 
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 SpIn is a subcorpus of SweLL-pilot collection of learner essays written by adult immigrants learning Swedish in Sweden. The essays were collected from the courses provided at the Center for Language Introduction (Centrum för **Sp**råk**In**troduktion), which has given the name to this subcorpus. Learners filled in consent forms and allowed use of their essays and personal metadata for research. 
 
-The work on this corpus was funded by *Språkbanken* and *Center for Language Technology* (CLT), both at the University of Gothenburg, Sweden, during 2012-2016. Part of the work on transcription and anonymization was carried out later as part of the [*L2 profiles*](https://spraakbanken.gu.se/en/projects/l2profiles) and [*SweLL infrastructure project*](https://spraakbanken.gu.se/en/projects/swell). 
+The work on this corpus was funded by *Språkbanken* and *Center for Language Technology* (CLT), both at the University of Gothenburg, Sweden, during 2012-2016. Part of the work on transcription and anonymization was carried out later as part of the [*L2 profiles project*](https://spraakbanken.gu.se/en/projects/l2profiles) and [*SweLL infrastructure project*](https://spraakbanken.gu.se/en/projects/swell). 
 
 For approved users, SpIn is available through Korp search interface and as a full dataset via a link that is sent to approved users. To get access, apply using this form: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell). 
 
