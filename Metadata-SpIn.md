@@ -42,12 +42,11 @@ ________________________________________________________________________________
 **No manual coding/labeling** was performed, except very basic anonymization
 
 
-|:-------------|:--------------|
+
 |**Administrative info**| |
 |:-------------|:--------------|
 |**Corpus title**|SpIn |
 |Corpus acronym|SpIn, a subcorpus in SweLL-pilot|
-
 |Distributor|Språkbanken Text (https://spraakbanken.gu.se/), SweLL-infrastructure component (swell@svenska.gu.se)|
 |Availability|freee of charge; access regulated by the GDPR restrictions (https://sunet.artologik.net/gu/swell) |
 |License|CLARIN-ID, -PRIV, -NORED, -BY (explanations: https://www.kielipankki.fi/support/clarin-eula/#res)|
@@ -55,14 +54,13 @@ ________________________________________________________________________________
 |Character encoding|UTF-8|
 |Markup language / file formats| Files are distributed in three formats: xml, json, raw texts|
 
-|:-------------|:--------------|
+
 |**Corpus design info**||
 |:-------------|:--------------|
 |L2 target language|Swedish; courses taken in Sweden|
 |L1 (mother tongue)|multiple; represented as iso-codes and usual names|
 |Corpus size|256 essays; 4 327 sentence; 44 996 tokens (incl punctuations)|
 |Corpus mode|written language: essays|
-
 |Annotation|transcription, anonymization|
 |Transcription guidelines|[http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)|
 |Written versions|One version of each essay (no several submissions of the same text)|
