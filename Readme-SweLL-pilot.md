@@ -37,7 +37,7 @@ Each format includes a so-called SVALA-link (or full-text link) for each essay. 
 
 ## References
 
-* Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [[http://arxiv.org/pdf/1604.06583v1.pdf][http://arxiv.org/pdf/1604.06583v1.pdf)]
+* Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [[http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)]
 * Wirén Mats, Arild Matsson, Dan Rosén, Elena Volodina. 2019. SVALA: Annotation of Second-Language Learner Text Based on Mostly Automatic Alignment of Parallel Corpora. CLARIN-2018 post-conference volume. LiUP Press. [[http://www.ep.liu.se/ecp/159/023/ecp18159023.pdf](http://www.ep.liu.se/ecp/159/023/ecp18159023.pdf)]
 
 
