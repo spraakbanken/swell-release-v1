@@ -1,5 +1,7 @@
 # SweLL-pilot collection
 
+*(Elena Volodina, July 01, 2021)*
+
 SweLL-pilot corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2007-2016, and contains 502 essays that have been anonymized and graded with CEFR labels. There are three subcorpora:
 * SpIn - 256 essays collected from Language Introduction course (mid-term exams) for newly arrived refugees. Some of the students are recurrent. 
 * Sw1203 - 141 essays collected from university students in exam setting, most of who wrote three essays each
