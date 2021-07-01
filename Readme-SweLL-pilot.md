@@ -30,7 +30,7 @@ Each format includes a so-called SVALA-link (or full-text link) for each essay. 
 * GDPR restrictions: geographical principle & research-and-development context
 * License: CLARIN - ID, -PRIV, -NORED, -BY ([explanations](https://www.kielipankki.fi/support/clarin-eula/#res)) 
 
-# Always cite 
+## Always cite 
 * ... Volodina et al. (2016) if you use this corpus
 
 ## References
