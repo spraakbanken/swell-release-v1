@@ -25,7 +25,7 @@ Each format includes a so-called SVALA-link (or full-text link) for each essay. 
 * [TISUS 2007 (part of SweLL-pilot)](https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS)
 
 ## Reminder of the access agreement
-* Access is individual and is administered via an [application](https://sunet.artologik.net/gu/swell)
+* Access is individual, free of charge and is administered via an [application](https://sunet.artologik.net/gu/swell)
 * GDPR restrictions: geographical principle & research-and-development context
 * License: CLARIN - ID, -PRIV, -NORED, -BY ([explanations](https://www.kielipankki.fi/support/clarin-eula/#res)) 
 
