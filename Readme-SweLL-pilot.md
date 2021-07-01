@@ -14,7 +14,7 @@ More information about each subcorpus can be found in the metadata files, and a 
     * xml (Korp format), attributes and variables are described in the Metadata file(s) 
     * raw text
 2. metadata in an excel file, ordered by essay-IDs; divided into subcorpora per spreadsheet
-3. the current readme file: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot
+3. the current readme file: [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot)
 
 Note that no linguistic annotation is added to the essays. 
 Each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parralel representation (original, target, tags on the links between original and target tokens) using SVALA tool. In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database.
