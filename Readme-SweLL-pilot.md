@@ -17,27 +17,27 @@ More information about each subcorpus can be found in the metadata files, and a 
     * xml (Korp format), attributes and variables are described in the Metadata file(s) 
     * raw text
 2. metadata in an excel file, ordered by essay-IDs; divided into subcorpora per spreadsheet
-3. the current readme file: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot
+3. the current readme file: [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot)
 
 Note that no linguistic annotation is added to the essays. 
 Each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parralel representation (original, target, tags on the links between original and target tokens) using SVALA tool. In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database.
 
 ## Metadata descriptions:
-* SpIn (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn
-* SW1203 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203
-* TISUS 2007 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS
+* SpIn (part of SweLL-pilot): [https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn](https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn)
+* SW1203 (part of SweLL-pilot): [https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203](https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203)
+* TISUS 2007 (part of SweLL-pilot): [https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS](https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS)
 
 ## Reminder of the access agreement
-* Access is individual, free of charge and is administered via an application: https://sunet.artologik.net/gu/swell
+* Access is individual, free of charge and is administered via an application: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell)
 * GDPR restrictions: geographical principle & research-and-development context
-* License: CLARIN - ID, -PRIV, -NORED, -BY (explanations: https://www.kielipankki.fi/support/clarin-eula/#res) 
+* License: CLARIN - ID, -PRIV, -NORED, -BY (explanations: [https://www.kielipankki.fi/support/clarin-eula/#res](https://www.kielipankki.fi/support/clarin-eula/#res)) 
 
 ## Always cite 
 * ... Volodina et al. (2016) if you use this corpus
 
 ## References
 
-* Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [http://arxiv.org/pdf/1604.06583v1.pdf]
-* Wirén Mats, Arild Matsson, Dan Rosén, Elena Volodina. 2019. SVALA: Annotation of Second-Language Learner Text Based on Mostly Automatic Alignment of Parallel Corpora. CLARIN-2018 post-conference volume. LiUP Press. [http://www.ep.liu.se/ecp/159/023/ecp18159023.pdf)]
+* Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [[http://arxiv.org/pdf/1604.06583v1.pdf][http://arxiv.org/pdf/1604.06583v1.pdf)]
+* Wirén Mats, Arild Matsson, Dan Rosén, Elena Volodina. 2019. SVALA: Annotation of Second-Language Learner Text Based on Mostly Automatic Alignment of Parallel Corpora. CLARIN-2018 post-conference volume. LiUP Press. [[http://www.ep.liu.se/ecp/159/023/ecp18159023.pdf](http://www.ep.liu.se/ecp/159/023/ecp18159023.pdf)]
 
 
