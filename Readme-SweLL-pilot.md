@@ -9,7 +9,7 @@ SweLL-pilot corpus is a corpus of essays written by adult learners of Swedish. I
 * Sw1203 - 141 essays collected from university students in exam setting, most of who wrote three essays each
 * TISUS - 105 essays written as a part of a Test In Swedish for University Studies. All essays are on the same topic, "Stress"
 
-More information about each subcorpus can be found in the *Metadata* files below, and a few more details in Volodina et al. (2016). ***Note***, however, that Volodina et al. (2016) cite a bit different number of essays. This is due to the fact that some of the essays have been transcribed and added to the collection at a later stage. 
+More information about each subcorpus can be found in the *Metadata* files below, and a few more details in Volodina et al. (2016). ***Note!***, however, that Volodina et al. (2016) cite a bit different number of essays. This is due to the fact that some of the essays have been transcribed and added to the collection at a later stage. 
 
 
 ### SweLL-pilot.zip contains
@@ -46,7 +46,7 @@ More information about each subcorpus can be found in the *Metadata* files below
    
    4.4 tisus.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
 
-Note that no linguistic annotation is added to the essays. 
+***Note!*** that no linguistic annotation is added to the essays. 
 Each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parralel representation (original, target, tags on the links between original and target tokens) using SVALA tool  (Wirén et al. 2019). In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database.
 
 * To use SVALA, please have a look at the video: [https://gubox.box.com/s/tp5gm8dua0avs7luqbgxwicws5dl0jh5](https://gubox.box.com/s/tp5gm8dua0avs7luqbgxwicws5dl0jh5)
