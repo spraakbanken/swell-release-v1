@@ -17,21 +17,33 @@ More information about each subcorpus can be found in the *Metadata* files below
 1. the current ReadMe file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot)
 
 2. SpIn-folder
+
    2.1 metadata_Spin.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
+
    2.2 spin.json - all SpIn essays (256) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+   
    2.3 spin.txt - raw essay texts (i.e. containing no annotation)
+   
    2.4 spin.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
 
 3. SW1203-folder
+
    3.1 metadata_SW1203.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
-   3.2 sw.json - all SpIn essays (256) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+   
+   3.2 sw.json - all SpIn essays (141) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+   
    3.3 sw.txt - raw essay texts (i.e. containing no annotation)
+   
    3.4 sw.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
 
 4. TISUS-folder
+
    4.1 metadata_TISUS.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
-   4.2 tisus.json - all SpIn essays (256) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+   
+   4.2 tisus.json - all SpIn essays (105) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+   
    4.3 tisus.txt - raw essay texts (i.e. containing no annotation)
+   
    4.4 tisus.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
 
 Note that no linguistic annotation is added to the essays. 
