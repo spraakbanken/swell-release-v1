@@ -5,7 +5,7 @@ SweLL-pilot corpus is a corpus of essays written by adult learners of Swedish. I
 * Sw1203 - 141 essays collected from university students in exam setting, most of who wrote three essays each
 * TISUS - 105 essays written as a part of a Test In Swedish for University Studies. All essays are on the same topic, "Stress"
 
-More information about each subcorpus can be found in the metadata files, and a few more details in Volodina et al. (2016). *Note*, however, that Volodina et al. (2016) cite a bit different number of essays. This is due to the fact that some of the essays have been transcribed and added to the collection at a later stage. 
+More information about each subcorpus can be found in the metadata files, and a few more details in Volodina et al. (2016). ***Note***, however, that Volodina et al. (2016) cite a bit different number of essays. This is due to the fact that some of the essays have been transcribed and added to the collection at a later stage. 
 
 
 ### SweLL-pilot.zip contains
