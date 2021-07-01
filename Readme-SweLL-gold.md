@@ -20,7 +20,7 @@ More information about this corpus can be found in the *Metadata section* below,
 6. the current *ReadMe* file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
 
 
-Note that no linguistic annotation is added to the essays. 
+***Note!*** that no linguistic annotation is added to the essays. 
 Each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parralel representation (original, target, tags on the links between original and target tokens) using SVALA tool (Wirén et al. 2019). In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database. 
 
 * To use SVALA, please have a look at the video: [https://gubox.box.com/s/tp5gm8dua0avs7luqbgxwicws5dl0jh5](https://gubox.box.com/s/tp5gm8dua0avs7luqbgxwicws5dl0jh5)
