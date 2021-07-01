@@ -33,7 +33,6 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 ## 1. General and administrative information
 
-*Based on the "Core metadata for learner corpora: draft 1.0, December 2017" by Sylviane Granger and Magali Paquot*
 
 **Total nr essays**: 256  (June, 19, 2021)
 
@@ -91,6 +90,8 @@ ________________________________________________________________________________
 
 ### 2.1 Administrative information
 (Not available through Korp)
+
+*Based on the "Core metadata for learner corpora: draft 1.0, December 2017" by Sylviane Granger and Magali Paquot*
 
 |**Administrative info**| |
 |:-------------|:--------------|
