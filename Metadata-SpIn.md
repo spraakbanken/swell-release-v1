@@ -16,15 +16,17 @@ ________________________________________________________________________________
 
 [2. Metadata description for the SpIn corpus](#2-metadata-description-for-the-SpIn-corpus)    
 
-  - [2.1 Personal metadata](#21-personal-metadata)
+  - [2.1 Administrative information](#21-administrative-information)
+  
+  - [2.2 Personal metadata](#22-personal-metadata)
 
-  - [2.2 Task metadata](#22-task-metadata)    
+  - [2.3 Task metadata](#23-task-metadata)    
 
-  - [2.3 Essay metadata](#23-essay-metadata)
+  - [2.4 Essay metadata](#24-essay-metadata)
 
-  - [2.4 School metadata](#24-school-metadata)
+  - [2.5 School metadata](#25-school-metadata)
 
-  - [2.5 Anonymization](#25-anonymization)    
+  - [2.6 Anonymization](#26-anonymization)    
   
 _____________________________________________________________________________________
 ## 1. General and administrative information
@@ -40,39 +42,6 @@ ________________________________________________________________________________
 **Levels represented**: A1, A2, B1, B2
 
 **No manual coding/labeling** was performed, except very basic anonymization
-
-
-
-|**Administrative info**| |
-|:-------------|:--------------|
-|Corpus title|SpIn, a subcorpus in SweLL-pilot|
-|Distributor|Språkbanken Text (https://spraakbanken.gu.se/), SweLL-infrastructure component (swell@svenska.gu.se)|
-|Availability|freee of charge; access regulated by the GDPR restrictions (https://sunet.artologik.net/gu/swell) |
-|License|CLARIN-ID, -PRIV, -NORED, -BY (explanations: https://www.kielipankki.fi/support/clarin-eula/#res)|
-|Edition |version 1|
-|Character encoding|UTF-8|
-|Markup language / file formats| Files are distributed in three formats: xml, json, raw texts|
-|**Corpus design info**||
-|L2 target language|Swedish; courses taken in Sweden|
-|L1 (mother tongue)|multiple; represented as iso-codes and usual names|
-|Corpus size|256 essays; 4 327 sentence; 44 996 tokens (incl punctuations)|
-|Corpus mode|written language: essays collected from (classroom/midterm) exams|
-|Annotation|transcription, anonymization|
-|Transcription guidelines|see article: [http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)|
-|Written versions|One version of each essay (no several submissions of the same text)|
-|Longitudinal|no; but some students are recurrent with up to five (5) essays written in different periods of education|
-|Proficiency levels|CEFR grades represented: A1, A2, B1, (B2)|
-|Proficiency level type|Text based|
-|Official language testing|no|
-|Comparison data (L1 source)|N/A|
-|**Corpus annotation info**||
-|Manual annotation|anonymization|
-|Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
-||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
-||lemmatization, incl word sense disambiguation and multi-word identification, SALDO-based |
-||dependency parsing: [https://cl.lingfil.uu.se/~nivre/swedish_treebank/dep.html](https://cl.lingfil.uu.se/~nivre/swedish_treebank/dep.html)|
-|Correction annotated|no|
-
 
 _____________________________________________________________________________________
 
