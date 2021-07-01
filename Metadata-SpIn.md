@@ -1,4 +1,4 @@
-# **Metadata description: SpIn** 
+# **Metadata description: SpIn (sub)corpus** 
 
 (a subcorpus in SweLL-pilot)
 
@@ -27,7 +27,9 @@ ________________________________________________________________________________
   - [2.5 Anonymization](#25-anonymization)    
   
 _____________________________________________________________________________________
-## 1. General information
+## 1. General and administrative information
+
+*Based on the "Core metadata for learner corpora: draft 1.0, December 2017" by Sylviane Granger and Magali Paquot*
 
 **Total nr essays**: 256  (June, 19, 2021)
 
@@ -38,6 +40,48 @@ ________________________________________________________________________________
 **Levels represented**: A1, A2, B1, B2
 
 **No manual coding/labeling** was performed, except very basic anonymization
+
+
+|:-------------|:--------------|
+|**Administrative info**| |
+|:-------------|:--------------|
+|**Corpus title**|SpIn |
+|Corpus acronym|SpIn, a subcorpus in SweLL-pilot|
+
+|Distributor|Språkbanken Text (https://spraakbanken.gu.se/), SweLL-infrastructure component (swell@svenska.gu.se)|
+|Availability|freee of charge; access regulated by the GDPR restrictions (https://sunet.artologik.net/gu/swell) |
+|License|CLARIN-ID, -PRIV, -NORED, -BY (explanations: https://www.kielipankki.fi/support/clarin-eula/#res)|
+|Edition |version 1|
+|Character encoding|UTF-8|
+|Markup language / file formats| Files are distributed in three formats: xml, json, raw texts|
+
+|:-------------|:--------------|
+|**Corpus design info**||
+|:-------------|:--------------|
+|L2 target language|Swedish; courses taken in Sweden|
+|L1 (mother tongue)|multiple; represented as iso-codes and usual names|
+|Corpus size|256 essays; 4 327 sentence; 44 996 tokens (incl punctuations)|
+|Corpus mode|written language: essays|
+
+|Annotation|transcription, anonymization|
+|Transcription guidelines|[http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)|
+|Written versions|One version of each essay (no several submissions of the same text)|
+|Longitudinal|no; but some students are recurrent with up to five (5) essays written in different periods of education|
+|Proficiency levels|CEFR grades represented: A1, A2, B1, (B2)|
+|Proficiency level type|Text based|
+|Official language testing|no|
+|Comparison data (L1 source)|N/A|
+
+|:-------------|:--------------|
+|**Corpus annotation info**||
+|:-------------|:--------------|
+|Manual annotation|anonymization|
+|Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
+||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
+||lemmatization, incl word sense disambiguation and multi-word identification, SALDO-based |
+||dependency parsing: [https://cl.lingfil.uu.se/~nivre/swedish_treebank/dep.html](https://cl.lingfil.uu.se/~nivre/swedish_treebank/dep.html)|
+|Correction annotated|no|
+
 
 _____________________________________________________________________________________
 
@@ -166,4 +210,14 @@ ________________________________________________________________________________
 |:-------------|:--------------|
 |Names, streets|Format: NN, NN-gata|
 
+_____________________________________________________________________________________
+
+### 2.6 Administrative metadata
+
+(Not available through Korp)
+
+|***Description***||
+|:-------------|:--------------|
+|School ID [*source / source*]|Letter *S* for Centrum för **S**pråkintroduktion|
+||a one-year intensive program that aims to prepare newly arrived refugees/learners for the next transitional training stage before they can proceed with the upper-secondary studies at national Swedish schools|
 
