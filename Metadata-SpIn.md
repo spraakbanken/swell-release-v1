@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 (*Version from 2021*) The above article + updated statistics in this documentation. The major difference between the versions from 2016 and 2021 is that additional 112 essays have been transcribed and anonymized. Additionally, all attributes and the corresponding values (e.g. level, language names, etc) have been harmonized between several other learner subcorpora in the SweLL collection to make possible searches in several of them at the same time.
 
-*Personal data management*: Essays were collected following a consent from the learners. The consent allows the use of essays for research by registered (approved) users. Handwritten essays were transcribed and manually anonymized according to the principles described in Volodina et al (2016) above.
+*Personal data management*: Essays were collected following a consent from the learners. The consent allows the use of essays for research by registered (approved) users. Handwritten essays were transcribed and manually anonymized according to the principles described in Volodina et al. (2016).
 
 *Mode/format*: All essays were written as mid-term exams, in a classroom setting. Most of the essays were written by hand and were transcribed later according to the Transcription guidelines (see Volodina et al., 2016).
 
