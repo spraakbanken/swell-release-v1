@@ -31,12 +31,12 @@ Each format includes a so-called SVALA-link (or full-text link) for each essay. 
 * https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL
 
 ## Reminder of the access agreement
-* Please note the agreement conditions: 
-   * Access is individual, free of charge and is administered via an application: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell)
-   * Acc. to the GDPR restrictions, the user needs to be affiliated in EU and work in the context of second language (research, teaching, or development)
-   * License information: CLARIN - ID, -PRIV, -NORED, -BY (explanations: [https://www.kielipankki.fi/support/clarin-eula/#res](https://www.kielipankki.fi/support/clarin-eula/#res))
-      * -NORED: The data cannot be re-distributed, copied or sold
-      * -BY: the use of the data has to be acknowledged by citing proper publications, e.g. see References below
+Please note the agreement conditions: 
+* Access is individual, free of charge and is administered via an application: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell)
+* Acc. to the GDPR restrictions, the user needs to be affiliated in EU and work in the context of second language (research, teaching, or development)
+* License information: CLARIN - ID, -PRIV, -NORED, -BY (explanations: [https://www.kielipankki.fi/support/clarin-eula/#res](https://www.kielipankki.fi/support/clarin-eula/#res))
+   * -NORED: The data cannot be re-distributed, copied or sold
+   * -BY: the use of the data has to be acknowledged by citing proper publications, e.g. see References below
 
 ## Always cite 
 * ... Volodina et al. (2019) if you use this corpus
