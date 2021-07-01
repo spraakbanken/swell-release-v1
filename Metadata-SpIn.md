@@ -94,7 +94,7 @@ ________________________________________________________________________________
 |:-------------|:--------------|
 |Corpus title|SpIn, a subcorpus in SweLL-pilot|
 |Distributor|Språkbanken Text (https://spraakbanken.gu.se/), SweLL-infrastructure component (swell@svenska.gu.se)|
-|Availability|freee of charge; access regulated by the GDPR restrictions (https://sunet.artologik.net/gu/swell) |
+|Availability|freee of charge; access regulated by the GDPR restrictions (application form: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell)) |
 |License|CLARIN-ID, -PRIV, -NORED, -BY (explanations: https://www.kielipankki.fi/support/clarin-eula/#res)|
 |Edition |version 1|
 |Character encoding|UTF-8|
