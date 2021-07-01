@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 **Nr tokens**: 52 518, incl. punctuation
 
-**Levels represented**: B1, B2, C1, C2
+**Levels represented** (CEFR scale): B1, B2, C1, C2
 
 **No manual coding/labeling** was performed, except very basic anonymization
 
@@ -131,41 +131,56 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 | ***General*** |   |
 |:-------------|:--------------|
 |• Student ID [*student ID / student_id*]|54 unique students, e.g. W16. Letter prefix (for a school) + a running number|
-|• Age in 5-year intervals [*age / age*] | Age groups in SW1203: 16-20; 21-25; 26-30 |
-|• Birth year in 5-year intervals [*birth year / birthyear_interval*]|e.g. 1960-1964; birth year spans between 1960 and 1995 are represented|
+|• Age in 5-year intervals [*age / age*] | Age groups in SW1203: e.g. 16-20; age groups 16-50 are represented|
+|• Birth year in 5-year intervals [*birth year / birthyear_interval*]|e.g. 1960-1964; birth year spans between 1960 and 1994 are represented|
 |• Gender [*gender / gender*]|Kvinna, Man |
-|• Time in Sweden (sum in months) [*residence / time_in_sweden*]|0 - 42 |
-|• Native language(s) [*native language / iso_l1*]|29  unique languages in 38 unique combinations of 1-3 languages|
-|• Education level [*education level / edu_level*]|0-6 years => 65|
-||7-9  years => 44|
-||10-13 years => 52|
+|• Time in Sweden (sum in months) [*residence / time_in_sweden*]|N/A |
+|• Native language(s) [*native language / iso_l1*]|27  unique languages in combinations of 1-3 languages|
+|• Education level [*education level / edu_level*]|1= 0-6 years => 0|
+||2= 7-9  years => 0|
+||3= 10-13 years => 54|
 ||14+ years => 0|
-||N/A => 5|
-|• Exam [*exam / exam*]|Educational certificate, if available. Free text.|
+|• Exam [*exam / exam*]|Educational certificate, if available. Free text. N/A for SW1203|
+|• Writing language [*writing language / writing_language*]|The best language in writing. N/A for SW1203|
 
 _____________________________________________________________________________________
 
 ### 2.3 Task metadata
 Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
-|***Administrative Metadata***||
+|***Descriptive metadata***||
 |:-------------|:--------------|
-|• Task ID [*task id / task_id*]|Task ID in the corpus. A letter prefix (for a school) + T(ask) + a running number, e.g. AT14. Total of 37 unique tasks|
+|• Task ID [*task id / task_id*]|Task ID in the corpus. A letter prefix (for a school) + T(ask) + a running number, e.g. WT14. Total of 8 unique tasks|
 |• Datum [*date / datum*]|Automatic Korp value, e.g. “2014-01-01”|
-|• Task date [*task date / task_date*]| The year and week (year-week) when the essay was written, e.g. 2012-W44 (SpIn data collected during 2012-2016)|
-|• Course type / school form [*school type / school_type*]|Ungdomsgymnasiet|
-|• Course level [*course subject / course_subject*]|Språkintroduktion för nyanlända|
-|• Grading scale [*grading scale / grading_scale*]|CEFR (A1-B2)|
+||inträdesprov A -HT12: 2012-08-30; VT13:2012-12-12|
+||mitterminsprov B –HT12: 2012-10-16; VT13:2013-03-20|
+||slutprov C –HT12: 2012-12-12; VT13:2013-05-21|
+||omprov D –HT12: 2013-01-10; VT13:2013-06-05|
+|• Task date [*task date / task_date*]| The year and week (year-week) when the essay was written, e.g. 2012-W44 (SW1203 data collected during 2012-2013)|
+|• Course type / school form [*school type / school_type*]|Behörighetsgivande kurs|
+|• Course level [*course subject / course_subject*]|Universitetet|
+|• Grading scale [*grading scale / grading_scale*]|CEFR (B1-C2)|
 |***Writing task details***||
-|• Task type [*task type / task_type*]|E.g. formativ skrivuppgift, mitterminsprov, exam|
-|• Task - format [*task format / task_format*]|Handwritten, Digital|
-|• Task duration (in minutes)|25--180|
-|• Text type / genre [*genre / text_types*]|E.g. berättande, argumenterande|
-|• Task instructions |N/A for SpIn|
-|• Allowed aids|None|
-|• Tasks - subject / topic [*task subject / subject*]|E.g. Min skola, Bästa dag i mitt liv, etc.|
-|• Lessontext_topic [*lessontext_topic / lessontext_topic*]|Topics in accordance with COCTAILL taxonomy < https://www.aclweb.org/anthology/W14-3510.pdf >|
-|• Task-url|N/A for SpIn. Handouts for the tasks were not used or made available|
+|• Task type [*task type / task_type*]|A: Inträdesuppsats (52 st)|
+||B: Mitterminsuppsats (41 st)|
+||C: Slutprovsuppsats (45 st)|
+||D: Omprov (3 st)|
+|• Task - format [*task format / task_format*]|Handwritten|
+|• Task duration (in minutes)|210 minutes|
+|• Text type / genre [*genre / text_types*]|Argumenterande|
+|• Task instructions |yes, for some tasks|
+|• Allowed aids|None except handouts|
+|• Tasks - subject / topic [*task subject / subject*]|E.g. Yttrandefrihet|
+|• Lessontext_topic [*lessontext_topic / lessontext_topic*]|Topics in accordance with COCTAILL taxonomy [https://www.aclweb.org/anthology/W14-3510.pdf](https://www.aclweb.org/anthology/W14-3510.pdf)|
+|• Task-url|links where available|
+||Ett brev till politikerna i kommunen: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_BrevTillPolitiker.pdf)|
+||Det goda livet: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_DetGodaLivet.pdf)|
+||Internet som mötesplats: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_InternetMotesplats.pdf)|
+||Traditioner och traditioners betydelse: [](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_Traditioner.pdf)|
+||Familjtyper (handout N/A)|
+||Turism (handout N/A)|
+||Yttrandefrihet (handout N/A)|
+||Engelska som världsspråk (handout N/A)|
 
 _____________________________________________________________________________________
 
@@ -173,13 +188,12 @@ ________________________________________________________________________________
 
 Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
-|***Description***||
+|***Descriptive metadata***||
 |:-------------|:--------------|
-|• CEFR level [*proficiency level / cefr_level*]|A1 => 59 essays|
-||A2 => 143 essays|
-||B1 => 46|
-||B2 => 2|
-||Unknown => 6   |                 
+|• CEFR level [*proficiency level / cefr_level*]|B1 => 40 essays|
+||B2 => 71 essays|
+||C1 => 23|
+||C2 => 7|                
 |• Grade [*grade / grade*]|N/A|
 |• Full text [*full text / svala_link*] |A link to the full essay that opens in SVALA annotation tool |
 
@@ -192,6 +206,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |:-------------|:--------------|
 |School ID [*source / source*]|Letter *S* for Centrum för **S**pråkintroduktion|
 ||a one-year intensive program that aims to prepare newly arrived refugees/learners for the next transitional training stage before they can proceed with the upper-secondary studies at national Swedish schools|
+|Approximate level [*approximate level / approximate_level*]|Level assigned based on the type of course, roughly split into A:Beginners, B:Intermediate and C:Advanced|
 
 _____________________________________________________________________________________
 
