@@ -26,8 +26,7 @@ ________________________________________________________________________________
   - [2.4 Essay metadata](#24-essay-metadata)
 
   - [2.5 School metadata](#25-school-metadata)
-
-  - [2.6 Anonymization](#26-anonymization)    
+ 
   
 _____________________________________________________________________________________
 ## 1. General and administrative information
@@ -117,7 +116,7 @@ ________________________________________________________________________________
 |Official language testing|no|
 |Comparison data (L1 source)|N/A|
 |**Corpus annotation info**||
-|Manual annotation|anonymization|
+|Manual annotation|anonymization, CEFR grading|
 |Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
 ||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
 ||lemmatization, incl word sense disambiguation and multi-word identification, SALDO-based |
@@ -209,15 +208,6 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |Approximate level [*approximate level / approximate_level*]|Level assigned based on the type of course, roughly split into A:Beginners, B:Intermediate and C:Advanced|
 
 _____________________________________________________________________________________
-
-### 2.6 Anonymization
-
-|***Description***||
-|:-------------|:--------------|
-|Names, streets|Format: NN, NN-gata|
-
-_____________________________________________________________________________________
-
 
 
 
