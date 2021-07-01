@@ -147,6 +147,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 ||14+ years => 0|
 ||N/A => 5|
 |• Exam [*exam / exam*]|Educational certificate, if available. Free text.|
+|• Writing language [*writing language / writing_language*]|The best language in writing. N/A for SpIn|
 
 _____________________________________________________________________________________
 
@@ -197,6 +198,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |:-------------|:--------------|
 |School ID [*source / source*]|Letter *S* for Centrum för **S**pråkintroduktion|
 ||a one-year intensive program that aims to prepare newly arrived refugees/learners for the next transitional training stage before they can proceed with the upper-secondary studies at national Swedish schools|
+|Approximate level [*approximate level / approximate_level*]|Level assigned based on the type of course, roughly split into A:Beginners, B:Intermediate and C:Advanced|
 
 _____________________________________________________________________________________
 
