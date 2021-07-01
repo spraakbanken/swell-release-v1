@@ -1,8 +1,10 @@
 # **Metadata description: SpIn (sub)corpus** 
 
-(a subcorpus in SweLL-pilot)
+**a subcorpus in SweLL-pilot**
 
-*Elena Volodina, 2021-06-11*
+*(Elena Volodina, July, 1, 2021)*
+
+*The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn](https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn)*
 
 _____________________________________________________________________________________
 ## Contents
