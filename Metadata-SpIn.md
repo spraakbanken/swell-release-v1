@@ -48,7 +48,7 @@ ________________________________________________________________________________
 
 ### 1.1 Description of the project
 
-SpIn is a subcorpus of SweLL-pilot collection of learner essays written by adult immigrants learning Swedish in Sweden. The essays were collected from the courses provided at the Center for Language Introduction (Centrum för **Sp**råk**In**troduktion), which has given the name to this subcorpus. Learner filled in consent forms and allowed use of their essays and personal metadata for research. 
+SpIn is a subcorpus of SweLL-pilot collection of learner essays written by adult immigrants learning Swedish in Sweden. The essays were collected from the courses provided at the Center for Language Introduction (Centrum för **Sp**råk**In**troduktion), which has given the name to this subcorpus. Learners filled in consent forms and allowed use of their essays and personal metadata for research. 
 
 The work on this corpus was funded by *Språkbanken* and *Center for Language Technology* (CLT), both at the University of Gothenburg, Sweden, during 2012-2016. Part of the work on transcription and anonymization was carried out later as part of the [*L2 profiles*](https://spraakbanken.gu.se/en/projects/l2profiles) and [*SweLL infrastructure project*](https://spraakbanken.gu.se/en/projects/swell). 
 
