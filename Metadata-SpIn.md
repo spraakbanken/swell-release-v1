@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 |**Administrative info**| |
 |:-------------|:--------------|
-|**Corpus title**|SpIn, a subcorpus in SweLL-pilot|
+|Corpus title|SpIn, a subcorpus in SweLL-pilot|
 |Distributor|Språkbanken Text (https://spraakbanken.gu.se/), SweLL-infrastructure component (swell@svenska.gu.se)|
 |Availability|freee of charge; access regulated by the GDPR restrictions (https://sunet.artologik.net/gu/swell) |
 |License|CLARIN-ID, -PRIV, -NORED, -BY (explanations: https://www.kielipankki.fi/support/clarin-eula/#res)|
@@ -53,7 +53,6 @@ ________________________________________________________________________________
 |Character encoding|UTF-8|
 |Markup language / file formats| Files are distributed in three formats: xml, json, raw texts|
 |**Corpus design info**||
-|:-------------|:--------------|
 |L2 target language|Swedish; courses taken in Sweden|
 |L1 (mother tongue)|multiple; represented as iso-codes and usual names|
 |Corpus size|256 essays; 4 327 sentence; 44 996 tokens (incl punctuations)|
@@ -67,7 +66,6 @@ ________________________________________________________________________________
 |Official language testing|no|
 |Comparison data (L1 source)|N/A|
 |**Corpus annotation info**||
-|:-------------|:--------------|
 |Manual annotation|anonymization|
 |Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
 ||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
