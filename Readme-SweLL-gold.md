@@ -17,7 +17,7 @@ More information about this corpus can be found in the *Metadata section* below,
 5. swellTarget-folder contains    
     * targetSwell.txt - raw text files with normalized essays
     * targetSwell.xml - an xml version of the normalized essays following Korp format. Attributes and variables are described in the Metadata file below.
-6. the current readme file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
+6. the current *ReadMe* file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
 
 
 Note that no linguistic annotation is added to the essays. 
