@@ -2,6 +2,8 @@
 
 *(Elena Volodina, July 01, 2021)*
 
+*The most recent version of this ReadMe file is available at https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot*
+
 SweLL-pilot corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2007-2016, and contains 502 essays that have been anonymized and graded with CEFR labels. There are three subcorpora:
 * SpIn - 256 essays collected from Language Introduction course (mid-term exams) for newly arrived refugees. Some of the students are recurrent. 
 * Sw1203 - 141 essays collected from university students in exam setting, most of who wrote three essays each
@@ -20,7 +22,10 @@ More information about each subcorpus can be found in the metadata files, and a 
 3. the current readme file: [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot)
 
 Note that no linguistic annotation is added to the essays. 
-Each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parralel representation (original, target, tags on the links between original and target tokens) using SVALA tool. In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database.
+Each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parralel representation (original, target, tags on the links between original and target tokens) using SVALA tool  (Wirén et al. 2019). In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database.
+
+* To use SVALA, please have a look at the video: https://gubox.box.com/s/tp5gm8dua0avs7luqbgxwicws5dl0jh5
+* Currently, SVALA manual is available only in Swedish
 
 ## Metadata descriptions:
 * SpIn (part of SweLL-pilot): [https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn](https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn)
