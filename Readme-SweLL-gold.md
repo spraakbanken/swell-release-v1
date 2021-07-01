@@ -7,8 +7,7 @@ SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It
 More information about this corpus can be found in the *Metadata section* below, and in the articles in the *References* section (e.g. Volodina et al., 2019).
 
 
-### SweLL-gold.zip contains
-
+## SweLL-gold.zip contains
 1. metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the Metadata file below.
 2. swelldata.json - all SweLL-gold essays (502) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
 3. swelldata.txt - raw texts, both  original and target versions, in one file 
