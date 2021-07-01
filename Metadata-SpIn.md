@@ -45,32 +45,27 @@ ________________________________________________________________________________
 
 |**Administrative info**| |
 |:-------------|:--------------|
-|**Corpus title**|SpIn |
-|Corpus acronym|SpIn, a subcorpus in SweLL-pilot|
+|**Corpus title**|SpIn, a subcorpus in SweLL-pilot|
 |Distributor|Språkbanken Text (https://spraakbanken.gu.se/), SweLL-infrastructure component (swell@svenska.gu.se)|
 |Availability|freee of charge; access regulated by the GDPR restrictions (https://sunet.artologik.net/gu/swell) |
 |License|CLARIN-ID, -PRIV, -NORED, -BY (explanations: https://www.kielipankki.fi/support/clarin-eula/#res)|
 |Edition |version 1|
 |Character encoding|UTF-8|
 |Markup language / file formats| Files are distributed in three formats: xml, json, raw texts|
-
-
 |**Corpus design info**||
 |:-------------|:--------------|
 |L2 target language|Swedish; courses taken in Sweden|
 |L1 (mother tongue)|multiple; represented as iso-codes and usual names|
 |Corpus size|256 essays; 4 327 sentence; 44 996 tokens (incl punctuations)|
-|Corpus mode|written language: essays|
+|Corpus mode|written language: essays collected from (classroom/midterm) exams|
 |Annotation|transcription, anonymization|
-|Transcription guidelines|[http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)|
+|Transcription guidelines|see article: [http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)|
 |Written versions|One version of each essay (no several submissions of the same text)|
 |Longitudinal|no; but some students are recurrent with up to five (5) essays written in different periods of education|
 |Proficiency levels|CEFR grades represented: A1, A2, B1, (B2)|
 |Proficiency level type|Text based|
 |Official language testing|no|
 |Comparison data (L1 source)|N/A|
-
-|:-------------|:--------------|
 |**Corpus annotation info**||
 |:-------------|:--------------|
 |Manual annotation|anonymization|
