@@ -16,7 +16,7 @@ ________________________________________________________________________________
   
   - [1.2 Description of the TISUS subcorpus](#12-description-of-the-TISUS-subcorpus)
   
-  - [1.3 To cite TISUS subcorpus](#13-to-cite-TISUS-subcorpus)
+  - [1.3 To cite the TISUS subcorpus](#13-to-cite-the-TISUS-subcorpus)
 
 [2. Metadata description for the TISUS subcorpus](#2-metadata-description-for-the-TISUS-subcorpus)    
 
@@ -78,7 +78,7 @@ To get more information on access to TISUS and other SweLL corpora, see the webp
 
 _____________________________________________________________________________________
 
-### 1.3 To cite TISUS subcorpus
+### 1.3 To cite the TISUS subcorpus
 
 Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [https://arxiv.org/pdf/1604.06583.pdf](https://arxiv.org/pdf/1604.06583.pdf)
 
