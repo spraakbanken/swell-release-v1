@@ -6,7 +6,9 @@
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS](https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS)
 * Previous version of the metadata description: https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_explanations2.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_explanations2.pdf)
+
 _____________________________________________________________________________________
+
 ## Contents
 [1. General information](#1-general-information)
 
@@ -68,7 +70,7 @@ ________________________________________________________________________________
 *Time constraints* ??? hours;
 No *access to extra materials* was allowed except handouts. However, no handouts are made available to corpus users (see details in *Task Metadata*).
 
-*CEFR levels* are indicative only. They were assigned by mapping grades on the written assignment according to the following scheme: failed (i.e. grade 2) => B2, grades 3-5 => C1. This mapping was made on an assumption that since the test was announced as equivalent to CEFR level C1, all "passed" students on the written assignment had competence of that level or higher. A more rigorous re-grading is planned for future. 
+*CEFR levels* are indicative only. They were assigned by mapping grades on the written assignment according to the following scheme: failed (i.e. grades 1-2) => B2, grades 3-5 => C1. This mapping was made based on the assumption that since the test was announced as equivalent to CEFR level C1, all "passed" students on the written assignment had competence of that level or higher. A more rigorous re-grading is planned for future. 
 
 To get more information on access to TISUS and other SweLL corpora, see the webpage: 
 [https://spraakbanken.gu.se/en/projects/swell/swell4users](https://spraakbanken.gu.se/en/projects/swell/swell4users) and
@@ -156,29 +158,27 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |• Task date [*task date / task_date*]| The year and week (year-week) when the essay was written, e.g. 2006-W20 (TISUS data collected from one exam occasion)|
 |• Course type / school form [*school type / school_type*]|N/A|
 |• Course level [*course subject / course_subject*]|N/A|
-|• Grading scale [*grading scale / grading_scale*]|mapped to CEFR (B1-C2)|
-|Result on the writing assignment [*written_result*]|Original grading system 1-5: Grading principles for the written assignment: 5 = 2 /  8,5 = 3 / 11 = 4 / 14 = 5|
+|• Grading principles of the TISUS components |Several scales have been used on the different parts of the test; later mapped to the CEFR levels for the written proficiency (see 1.2 above)|
+|Result on the writing assignment [*written proficiency / written_result*]|Grades 1-5: Grading principles for the written assignment: 5 = 2 /  8,5 = 3 / 11 = 4 / 14 = 5|
+|Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|Result on the reading comprehension test 1; max points => 27|
+|Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|Result on the reading comprehension test 2; max points => 15|
+|Reading comprehension, sum [*reading comprehension (sum) / lf_sum*]|The sum of the two reading comprehension tests; lf values have been multiplied with two different indices: 1,48 for LF1 och 1,33 för LF2|
+||Grading principles (grades 1 (lowest)-5 (best)) for reading comprehension based on LF1 and LF2 are:  20 = 2 / 40 = 3 / 48 = 4 / 55 = 5|
+|Oral proficiency [*oral proficiency / oral_result*]|Result on the spoken part of the test, the grading scale 1 (lowest) - 5 (best)|
+|Final grade [*final grade / final_grade*]| Grade on the whole TISUS test: Godkänd (=pass) or Underkänd (=fail)|
+|• Grading scale for the essays [*grading scale / grading_scale*]|(mapped to) CEFR (B1-C2)|
+||B2 => 32|
+||C1 => 73|
 |***Writing task details***||
-|• Task type [*task type / task_type*]|A: Inträdesuppsats (52 st)|
-||B: Mitterminsuppsats (41 st)|
-||C: Slutprovsuppsats (45 st)|
-||D: Omprov (3 st)|
+|• Task type [*task type / task_type*]|Behörighetsprov|
 |• Task - format [*task format / task_format*]|Handwritten|
 |• Task duration (in minutes)|210 minutes|
 |• Text type / genre [*genre / text_types*]|Argumenterande|
-|• Task instructions |yes, for some tasks|
+|• Task instructions |N/A for |
 |• Allowed aids|None except handouts|
-|• Tasks - subject / topic [*task subject / subject*]|E.g. Yttrandefrihet|
+|• Tasks - subject / topic [*task subject / subject*]|E.g. Stress i dagenssamhälle|
 |• Lessontext_topic [*lessontext_topic / lessontext_topic*]|Topics in accordance with COCTAILL taxonomy [https://www.aclweb.org/anthology/W14-3510.pdf](https://www.aclweb.org/anthology/W14-3510.pdf)|
-|• Task-url|links where available|
-||Ett brev till politikerna i kommunen: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_BrevTillPolitiker.pdf)|
-||Det goda livet: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_DetGodaLivet.pdf)|
-||Internet som mötesplats: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_InternetMotesplats.pdf)|
-||Traditioner och traditioners betydelse: [](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_Traditioner.pdf)|
-||Familjtyper (handout N/A)|
-||Turism (handout N/A)|
-||Yttrandefrihet (handout N/A)|
-||Engelska som världsspråk (handout N/A)|
+|• Task-url|N/A for TISUS|
 
 _____________________________________________________________________________________
 
@@ -205,7 +205,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |:-------------|:--------------|
 |School ID [*source / source*]|Letter *S* for Centrum för **S**pråkintroduktion|
 ||a one-year intensive program that aims to prepare newly arrived refugees/learners for the next transitional training stage before they can proceed with the upper-secondary studies at national Swedish schools|
-|Approximate level [*approximate level / approximate_level*]|Level assigned based on the type of course, roughly split into A:Beginners, B:Intermediate and C:Advanced|
+|Approximate level [*approximate level / approximate_level*]|Level assigned based on the type of course/exam, roughly split into A:Beginners, B:Intermediate and C:Advanced|
 
 _____________________________________________________________________________________
 
