@@ -181,6 +181,12 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 |***Description***||
 |:-------------|:--------------|
+|• Essays per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent" (longitudinal) students if the value is 2 or above|
+||1 essay/student => 32|
+||2 essays/student => 66|
+||3 essays/student => 18|
+||4 essays/student => 40|
+||5 esays/student => 20|
 |• CEFR level [*proficiency level / cefr_level*]|A1 => 59 essays|
 ||A2 => 143 essays|
 ||B1 => 46|
