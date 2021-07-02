@@ -166,9 +166,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 ||Grading principles (grades 1 (lowest)-5 (best)) for reading comprehension based on LF1 and LF2 are:  20 = 2 / 40 = 3 / 48 = 4 / 55 = 5|
 |• Oral proficiency [*oral proficiency / oral_result*]|Result on the spoken part of the test, the grading scale 1 (lowest) - 5 (best)|
 |• Final grade [*final grade / final_grade*]| Grade on the whole TISUS test: Godkänd (=pass) or Underkänd (=fail)|
-|***Grading scale for the essays*** [*grading scale / grading_scale*]|(mapped to) CEFR (B1-C2)|
-||B2 => 32|
-||C1 => 73|
+|• Grading scale for the essays [*grading scale / grading_scale*]|(mapped to) CEFR (B1-C2)|
 |***Writing task details***||
 |• Task type [*task type / task_type*]|Behörighetsprov|
 |• Task - format [*task format / task_format*]|Handwritten|
@@ -189,10 +187,8 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |***Descriptive metadata***||
 |:-------------|:--------------|
 |• Essay per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent students" if the value is 2 or above. No recurrent students in TISUS|
-|• CEFR level [*proficiency level / cefr_level*]|B1 => 40 essays|
-||B2 => 71 essays|
-||C1 => 23|
-||C2 => 7|                
+|• CEFR level [*proficiency level / cefr_level*]|B2 => 32|
+||C1 => 73|                
 |• Grade [*grade / grade*]|N/A|
 |• Full text [*full text / svala_link*] |A link to the full essay that opens in SVALA annotation tool |
 
