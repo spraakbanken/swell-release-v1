@@ -13,7 +13,7 @@ ________________________________________________________________________________
   
   - [1.2 Description of the SW1203 subcorpus](#12-description-of-the-SW1203-subcorpus)
   
-  - [1.3 To cite SW1203 subcorpus](#13-to-cite-SW1203-subcorpus)
+  - [1.3 To cite the SW1203 subcorpus](#13-to-cite-the-SW1203-subcorpus)
 
 [2. Metadata description for the SW1203 subcorpus](#2-metadata-description-for-the-SW1203-subcorpus)    
 
@@ -75,7 +75,7 @@ To get more information on access to SW1203 and other SweLL corpora, see the web
 
 _____________________________________________________________________________________
 
-### 1.3 To cite SW1203 subcorpus
+### 1.3 To cite the SW1203 subcorpus
 
 Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [https://arxiv.org/pdf/1604.06583.pdf](https://arxiv.org/pdf/1604.06583.pdf)
 
