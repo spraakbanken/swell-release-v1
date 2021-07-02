@@ -159,14 +159,14 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |• Course type / school form [*school type / school_type*]|N/A|
 |• Course level [*course subject / course_subject*]|N/A|
 |***Grading principles of the TISUS components***|Several scales have been used on the different parts of the test; later mapped to the CEFR levels for the written proficiency (see 1.2 above)|
-|Result on the writing assignment [*written proficiency / written_result*]|Grades 1-5: Grading principles for the written assignment: 5 = 2 /  8,5 = 3 / 11 = 4 / 14 = 5|
-|Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|Result on the reading comprehension test 1; max points => 27|
-|Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|Result on the reading comprehension test 2; max points => 15|
-|Reading comprehension, sum [*reading comprehension (sum) / lf_sum*]|The sum of the two reading comprehension tests; lf values have been multiplied with two different indices: 1,48 for LF1 och 1,33 för LF2|
+|• Result on the writing assignment [*written proficiency / written_result*]|Grades 1-5: Grading principles for the written assignment: 5 = 2 /  8,5 = 3 / 11 = 4 / 14 = 5|
+|• Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|Result on the reading comprehension test 1; max points => 27|
+|• Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|Result on the reading comprehension test 2; max points => 15|
+|• Reading comprehension, sum [*reading comprehension (sum) / lf_sum*]|The sum of the two reading comprehension tests; lf values have been multiplied with two different indices: 1,48 for LF1 och 1,33 för LF2|
 ||Grading principles (grades 1 (lowest)-5 (best)) for reading comprehension based on LF1 and LF2 are:  20 = 2 / 40 = 3 / 48 = 4 / 55 = 5|
-|Oral proficiency [*oral proficiency / oral_result*]|Result on the spoken part of the test, the grading scale 1 (lowest) - 5 (best)|
-|Final grade [*final grade / final_grade*]| Grade on the whole TISUS test: Godkänd (=pass) or Underkänd (=fail)|
-|• Grading scale for the essays [*grading scale / grading_scale*]|(mapped to) CEFR (B1-C2)|
+|• Oral proficiency [*oral proficiency / oral_result*]|Result on the spoken part of the test, the grading scale 1 (lowest) - 5 (best)|
+|• Final grade [*final grade / final_grade*]| Grade on the whole TISUS test: Godkänd (=pass) or Underkänd (=fail)|
+|***Grading scale for the essays*** [*grading scale / grading_scale*]|(mapped to) CEFR (B1-C2)|
 ||B2 => 32|
 ||C1 => 73|
 |***Writing task details***||
