@@ -1,4 +1,4 @@
-# SweLL-pilot collection
+# ReadMe: SweLL-pilot collection
 
 *(Elena Volodina, July 01, 2021)*
 
