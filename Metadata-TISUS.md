@@ -5,7 +5,7 @@
 *(Elena Volodina, July, 2, 2021)*
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS](https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS)
-* Previous version of the metadata description: https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_explanations2.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_explanations2.pdf)
+* Previous version of the metadata description: [https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_explanations2.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_explanations2.pdf)
 
 _____________________________________________________________________________________
 
