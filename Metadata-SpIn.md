@@ -76,7 +76,7 @@ To get more information on access to SpIn and other SweLL corpora, see the webpa
 
 _____________________________________________________________________________________
 
-### 1.3 To cite the SpIn subcorpus
+### 1.3 To cite SpIn subcorpus
 
 Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [https://arxiv.org/pdf/1604.06583.pdf](https://arxiv.org/pdf/1604.06583.pdf)
 
