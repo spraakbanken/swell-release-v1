@@ -11,11 +11,11 @@ ________________________________________________________________________________
 
   - [1.1 Description of the project](#11-description-of-the-project)
   
-  - [1.2 Description of the SpIn subcorpus](#12-description-of-the-SpIn-subcorpus)
+  - [1.2 Description of the SW1203 subcorpus](#12-description-of-the-SW1203-subcorpus)
   
-  - [1.3 To cite SpIn subcorpus](#13-to-cite-SpIn-subcorpus)
+  - [1.3 To cite SW1203 subcorpus](#13-to-cite-SW1203-subcorpus)
 
-[2. Metadata description for the SpIn subcorpus](#2-metadata-description-for-the-SpIn-subcorpus)    
+[2. Metadata description for the SW1203 subcorpus](#2-metadata-description-for-the-SW1203-subcorpus)    
 
   - [2.1 Administrative information](#21-administrative-information)
   
@@ -54,7 +54,7 @@ The SW1203 corpus is maintained at the University of Gothenburg, Språkbanken Te
 
 _____________________________________________________________________________________
 
-### 1.2 Description of the SpIn subcorpus 
+### 1.2 Description of the SW1203 subcorpus 
 
 (*Version from 2016*) Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [https://arxiv.org/pdf/1604.06583.pdf](https://arxiv.org/pdf/1604.06583.pdf)
 
@@ -75,7 +75,7 @@ To get more information on access to SW1203 and other SweLL corpora, see the web
 
 _____________________________________________________________________________________
 
-### 1.3 To cite the SpIn subcorpus
+### 1.3 To cite the SW1203 subcorpus
 
 Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [https://arxiv.org/pdf/1604.06583.pdf](https://arxiv.org/pdf/1604.06583.pdf)
 
@@ -83,7 +83,7 @@ ________________________________________________________________________________
 
 
 
-## 2. Metadata description for the SpIn subcorpus
+## 2. Metadata description for the SW1203 subcorpus
 _____________________________________________________________________________________
 
 
