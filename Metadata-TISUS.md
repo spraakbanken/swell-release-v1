@@ -158,7 +158,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |• Task date [*task date / task_date*]| The year and week (year-week) when the essay was written, e.g. 2006-W20 (TISUS data collected from one exam occasion)|
 |• Course type / school form [*school type / school_type*]|N/A|
 |• Course level [*course subject / course_subject*]|N/A|
-|• Grading principles of the TISUS components |Several scales have been used on the different parts of the test; later mapped to the CEFR levels for the written proficiency (see 1.2 above)|
+|***Grading principles of the TISUS components***|Several scales have been used on the different parts of the test; later mapped to the CEFR levels for the written proficiency (see 1.2 above)|
 |Result on the writing assignment [*written proficiency / written_result*]|Grades 1-5: Grading principles for the written assignment: 5 = 2 /  8,5 = 3 / 11 = 4 / 14 = 5|
 |Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|Result on the reading comprehension test 1; max points => 27|
 |Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|Result on the reading comprehension test 2; max points => 15|
