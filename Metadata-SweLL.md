@@ -111,7 +111,7 @@ ________________________________________________________________________________
 ### 1.3 To cite the SweLL-gold subcorpus
 
 
-* Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. *Northern European Journal of Language Technology,* Special Issue.
+* Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. *Northern European Journal of Language Technology,* Special Issue. [https://nejlt.ep.liu.se/article/view/1374](https://nejlt.ep.liu.se/article/view/1374)
 
 * Other articles can be found on the project website: 
 [https://spraakbanken.gu.se/en/projects/swell/](https://spraakbanken.gu.se/en/projects/swell/)
@@ -401,16 +401,16 @@ To see an overview of the number of tags at various approximate levels, see Appe
 * Volodina, Elena, Yousuf Ali Mohammed, and Julia Klezl. (2021) DaLAJ-a dataset for linguistic acceptability judgments for Swedish. Proceedings of the 10th NLP4CALL, Linköping university Press.
 
 
-  |***Description*** ||                                 
-  |:-------------------|:---------|
-  | ***ORTHOGRAPHY*** |        |      
-  | *O* | misspelling   |                                             
-  | *O-Cap* | capitalization     |                                    
-  | *O-Comp* | compounding        |                                   
-  | ***LEXIS (derivational morphology included)*** |    |                    
-  | *L* | any other lexical problem   |  (not represented in the data)                        
-  | *L-Der* | wrong derivation mechanism used    |                    
-  | *L-FL* | mix of foreign language in Swedish     |                 
+|***Description*** ||                                 
+|:-------------------|:---------|
+| ***ORTHOGRAPHY*** |        |      
+| *O* | misspelling   |                                             
+| *O-Cap* | capitalization     |                                    
+| *O-Comp* | compounding        |                                   
+| ***LEXIS (derivational morphology included)*** |    |                    
+| *L* | any other lexical problem   |  (not represented in the data)                        
+| *L-Der* | wrong derivation mechanism used    |                    
+| *L-FL* | mix of foreign language in Swedish     |                 
   | *L-Ref* | reference error                       |                
   | *L-W* | wrong word choice                       |                 
   | ***MORPHOLOGY (inflectional) ≈ PHRASE LEVEL****   |    |              
