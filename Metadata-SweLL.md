@@ -11,9 +11,9 @@ ________________________________________________________________________________
 
   - [1.1 Description of the project](#11-description-of-the-project)
   
-  - [1.2 Description of the SweLL-gold subcorpus](#12-description-of-the-SweLL-gold-subcorpus)
+  - [1.2 Description of the SweLL-gold subcorpus](#12-description-of-the-sweLL-gold-subcorpus)
   
-  - [1.3 To cite the SweLL-gold subcorpus](#13-to-cite-the-SweLL-gold-subcorpus)
+  - [1.3 To cite the SweLL-gold subcorpus](#13-to-cite-the-sweLL-gold-subcorpus)
 
 
 [2. Metadata description for the SweLL-gold subcorpus](#2-metadata-description-for-the-swell-gold-subcorpus)
