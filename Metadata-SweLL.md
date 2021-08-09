@@ -52,7 +52,8 @@ ________________________________________________________________________________
 
 **Levels represented** (based on the level of the courses): A, B, C
 
-**Manual coding/labeling**: pseudonymization, normalization, correction annotation 
+**Manual coding/labeling**: pseudonymization, normalization, correction annotation
+
 _____________________________________________________________________________________
 
 
