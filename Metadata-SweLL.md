@@ -338,7 +338,8 @@ Pseudonymization guidelines:
 
 | ***Category type*** | ***Codes*** | ***Pseudonym / details*** |
 |:---------------------|:-------------|:------------------------|
-| Names             | firstname\_male       | replaced by an equivalent |
+| Names             | firstname\_male       | 
+d by an equivalent |
 |                   | firstname\_female     |                       |
 |                   | firstname\_unknown    |                       |
 |                   | initials              |                       |
@@ -355,12 +356,12 @@ Pseudonymization guidelines:
 | Institutions      | school                | replaced with equivalents |
 |                   | work                  |                       |
 |                   | other\_institution    |                       |
-| Transportation    | transport\_name       | replace with X-linjen randomly   |
+| Transportation    | transport\_name       | replaced with X-linjen randomly   |
 |                   | transport\_nr         |                       |
 | Age               | age\_digits | replaced with a random number in the +-2 span from the  actual number  |
 |                   | age\_string           |      |
 | Dates             | date\_digits          | 11/11/1111        |
-|                   | day                   |  replace randomly             |
+|                   | day                   |  replaced randomly             |
 |                   | month\_digit          |  11/11                 |
 |                   | month\_word           |     randomly                  |
 |                   | year                  |     +-2                  |
@@ -395,7 +396,7 @@ Pseudonymization guidelines:
 [https://spraakbanken.github.io/swell-project/Correction-annotation\_guidelines-and-codebook](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines-and-codebook)
 (Needs updating!)
 
-To see an overview of the number of tags at various approximate levels, see Appndix in Volodina et al. (2021): https://arxiv.org/pdf/2105.06681.pdf
+To see an overview of the number of tags at various approximate levels, see Appendix in Volodina et al. (2021): https://arxiv.org/pdf/2105.06681.pdf
 
 * Volodina, Elena, Yousuf Ali Mohammed, and Julia Klezl. (2021) DaLAJ-a dataset for linguistic acceptability judgments for Swedish. Proceedings of the 10th NLP4CALL, Linköping university Press.
 
@@ -407,7 +408,7 @@ To see an overview of the number of tags at various approximate levels, see Appn
   | *O-Cap* | capitalization     |                                    
   | *O-Comp* | compounding        |                                   
   | ***LEXIS (derivational morphology included)*** |    |                    
-  <!--| *L* | any other lexical problem   |   -->                           
+  | *L* | any other lexical problem   |  (not represented in the data)                        
   | *L-Der* | wrong derivation mechanism used    |                    
   | *L-FL* | mix of foreign language in Swedish     |                 
   | *L-Ref* | reference error                       |                
@@ -434,7 +435,7 @@ To see an overview of the number of tags at various approximate levels, see Appn
   | *S-Type* | change of construction type/phrase level |              
   | *S-WO* | any other word order problem                 |           
   | ***PUNCTUATION***    |           |                                  
-  <!--| *P* | general miss on punctuation   |       -->                      
+  | *P* | general miss on punctuation   |  (not represented in the data)                   
   | *P-M* | missing                       |                           
   | *P-R* | redundant                       |                         
   | *P-Sent* | sentence segmentation          |                       
@@ -445,4 +446,4 @@ To see an overview of the number of tags at various approximate levels, see Appn
   | *Com!* | comment on an essay level               |               
   | *OBS!* | comment on a token level                   |             
   | *X* | unintelligible                                  |           
-  <!--| *Unid* | unidentified                                   |       -->
+  | *Unid* | unidentified                                   |   (not represented in the data) 
