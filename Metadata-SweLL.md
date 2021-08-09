@@ -54,6 +54,7 @@ ________________________________________________________________________________
 
 **Manual coding/labeling**: pseudonymization, normalization, correction annotation
 
+**Other subcorpora**: Apart from the SweLL-gold subcorpus, the SweLL collection contains other (sub)corpora collected in other projects, e.g. TISUS (2007), SpIn, SW1203. Other (sub)corpora may be added to the SweLL collection.
 _____________________________________________________________________________________
 
 
