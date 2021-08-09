@@ -11,12 +11,12 @@ ________________________________________________________________________________
 
   - [1.1 Description of the project](#11-description-of-the-project)
   
-  - [1.2 Description of the SweLL-gold corpus](#12-description-of-the-SweLL-gold-subcorpus)
+  - [1.2 Description of the SweLL-gold subcorpus](#12-description-of-the-SweLL-gold-subcorpus)
   
   - [1.3 To cite the SweLL-gold subcorpus](#13-to-cite-the-SweLL-gold-subcorpus)
 
 
-[2. Metadata description for the SweLL-gold corpus](#2-metadata-description-for-the-swell-gold-corpus)
+[2. Metadata description for the SweLL-gold subcorpus](#2-metadata-description-for-the-swell-gold-subcorpus)
 
   - [2.1 Administrative information](#21-administrative-information)
   
@@ -29,7 +29,7 @@ ________________________________________________________________________________
   - [2.5 School metadata](#25-school-metadata)
 
 
-[3. Manual coding / annotation in the SweLL-gold corpus](#3-manual-coding-annotation-in-the-swell-corpus)
+[3. Manual coding / annotation in the SweLL-gold subcorpus](#3-manual-coding-annotation-in-the-swell-gold-subcorpus)
 
   - [3.1 Pseudonymization codes](#31-pseudonymization-codes)
 
@@ -77,7 +77,7 @@ For **approved users**, SweLL essays are available through Korp search interface
 
 _____________________________________________________________________________________
 
-### 1.2 Description of the SweLL-gold corpus 
+### 1.2 Description of the SweLL-gold subcorpus 
 
 * Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. *Northern European Journal of Language Technology,* Special Issue.
 
@@ -119,7 +119,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 
-## 2. Metadata description for the SweLL-gold corpus
+## 2. Metadata description for the SweLL-gold subcorpus
 _____________________________________________________________________________________
 
 
@@ -327,7 +327,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
  
 
-## 3. Manual coding / annotation in the SweLL corpus
+## 3. Manual coding / annotation in the SweLL subcorpus
 
 ### 3.1 Pseudonymization codes
 
