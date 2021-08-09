@@ -29,7 +29,7 @@ ________________________________________________________________________________
   - [2.5 School metadata](#25-school-metadata)
 
 
-[3. Manual coding / annotation in the SweLL-gold subcorpus](#3-manual-coding-annotation-in-the-swell-gold-subcorpus)
+[3. Manual annotation in the SweLL-gold subcorpus](#3-manual-annotation-in-the-swell-gold-subcorpus)
 
   - [3.1 Pseudonymization codes](#31-pseudonymization-codes)
 
@@ -328,7 +328,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
  
 
-## 3. Manual coding / annotation in the SweLL-gold subcorpus
+## 3. Manual annotation in the SweLL-gold subcorpus
 
 ### 3.1 Pseudonymization codes
 
