@@ -144,7 +144,7 @@ ________________________________________________________________________________
 |Corpus size|502 essays; 7 805 sentences; 147 743 tokens, incl punctuation (original version))|
 |Corpus mode|written language: essays collected from classroom/exam setting|
 |Annotation|transcription, pseudonymization, normalization, correction annotation, automatic linguistic annotation|
-|Transcription guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Anonymization_guidelines](https://spraakbanken.github.io/swell-project/Anonymization_guidelines)|
+|Transcription guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Transcription_guidelines](https://spraakbanken.github.io/swell-project/Transcription_guidelines)|
 |Pseudonymization guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Anonymization_guidelines](https://spraakbanken.github.io/swell-project/Anonymization_guidelines)|
 |Normalization guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Normalization_guidelines](https://spraakbanken.github.io/swell-project/Normalization_guidelines)|
 |Correction annotation guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines)|
