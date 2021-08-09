@@ -309,7 +309,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 ---
   
 
-### 2.5 Schools metadata
+### 2.5 School metadata
 
   | ***School listing***  |    |  ***Description*** |
   |:------------------|:---------------|:---------------- |
