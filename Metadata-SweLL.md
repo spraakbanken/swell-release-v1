@@ -29,7 +29,7 @@ ________________________________________________________________________________
   - [2.5 School metadata](#25-school-metadata)
 
 
-[3. Manual coding / annotation in the SweLL-gold subcorpus](#3-manual-coding-annotation-in-the-swell-gold-subcorpus)
+[3. Manual annotation in the SweLL-gold subcorpus](#3-manual-annotation-in-the-swell-gold-subcorpus)
 
   - [3.1 Pseudonymization codes](#31-pseudonymization-codes)
 
@@ -156,7 +156,7 @@ ________________________________________________________________________________
 |Official language testing|mixed sources|
 |Comparison data (L1 source)|N/A|
 |**Corpus annotation info**||
-|Manual annotation|pseudonymization, normalization, correction annotation|
+|Manual annotation|yes, pseudonymization, normalization, correction annotation|
 |Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
 ||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
 ||lemmatization, incl word sense disambiguation and multi-word identification, SALDO-based |
@@ -328,7 +328,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
  
 
-## 3. Manual coding / annotation in the SweLL subcorpus
+## 3. Manual annotation in the SweLL subcorpus
 
 ### 3.1 Pseudonymization codes
 
