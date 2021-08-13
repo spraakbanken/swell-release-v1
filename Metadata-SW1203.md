@@ -4,7 +4,8 @@
 *(Elena Volodina, July, 1, 2021)*
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203](https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203)
-* Previous version of the metadata description: [https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_SW1203_0.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_SW1203_0.pdf)
+* Previous version of the metadata description: [https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata\_SW1203_0.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata\_SW1203_0.pdf)
+
 _____________________________________________________________________________________
 ## Contents
 [1. General information](#1-general-information)
