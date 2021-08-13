@@ -204,7 +204,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |:-------------|:--------------|
 |School ID [*source / source*]|Letter *T* for **T**ISUS|
 ||an high-stakes exam that qualifies non-Swedish speaking students to get accepted to the university|
-||School-type for all essays is "universitetet" (at the moment not added as an attribute to the corpus)|
+||School-type for all essays is "universitetet" (at the moment not added as an attribute to the corpus, but will be in the future updates)|
 |Approximate level [*approximate level / approximate_level*]|Level assigned based on the type of course/exam, roughly split into A:Beginners, B:Intermediate and C:Advanced, with additional marker "Fortsättning" (i.e. Continuation) added where necessary. Note the the order of the two descriptors always come in the alphabetical order, thus sometimes taking form of "Forsättning, Nybörjare" (i.e. Continuation, Beginner)|
 
 _____________________________________________________________________________________
