@@ -31,7 +31,7 @@ ________________________________________________________________________________
   - [2.6 Anonymization](#26-anonymization)    
   
 _____________________________________________________________________________________
-## 1. General and administrative information
+## 1. General information
 
 
 **Total nr essays**: 256  (June, 19, 2021)
