@@ -36,9 +36,9 @@ ________________________________________________________________________________
 
 **Total nr essays**: 256  (June, 19, 2021)
 
-**Nr sentences**: 4 327
+**Nr sentences**: 4 302
 
-**Nr tokens**: 44 996, incl. punctuation
+**Nr tokens**: 46 911, incl. punctuation
 
 **Levels represented**: A1, A2, B1, B2
 
