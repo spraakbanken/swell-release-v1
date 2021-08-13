@@ -1,6 +1,8 @@
 # ReadMe: SweLL-gold collection
 *(Elena Volodina, July, 1, 2021)*
 
+*Contact info: swell@svenska.gu.se*
+
 *The most recent version of this ReadMe file is available at [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)*
 
 SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 20017-2021 in the SweLL project [https://spraakbanken.gu.se/en/projects/swell/](https://spraakbanken.gu.se/en/projects/swell/), and contains 502 essays that have been pseudonymized, normalized and correction annotated. 
