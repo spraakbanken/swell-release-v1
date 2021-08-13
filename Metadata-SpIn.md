@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
   - [2.5 School metadata](#25-school-metadata)
 
-  - [2.6 Anonymization](#26-anonymization)    
+  - [2.6 Transcription and anonymization](#26-transcription-and-anonymization)    
   
 _____________________________________________________________________________________
 ## 1. General information
@@ -210,10 +210,11 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 _____________________________________________________________________________________
 
-### 2.6 Anonymization
+### 2.6 Transcription and anonymization
 
 |***Description***||
 |:-------------|:--------------|
+|Illegible handwriting|rendered by the sign @ for each illegible letter|
 |Names, streets|Format: NN, NN-gata|
 
 _____________________________________________________________________________________
