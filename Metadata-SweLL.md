@@ -153,7 +153,7 @@ ________________________________________________________________________________
 |Correction annotation guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines)|
 |Written versions|One version of each essay (no several submissions of the same text)|
 |Longitudinal|not intentionally; but some recurrent students appear, see section 2.4|
-|Proficiency levels|(approximate) development levels based on course level: A:Beginner, B:Intermediate, C:Advanced|
+|Proficiency levels|(approximate) development levels based on course level: A:Beginner, B:Intermediate, C:Advanced, with additional marker "Fortsättning" (i.e. Continuation) added where necessary. Note the the order of the two descriptors always come in the alphabetical order, thus sometimes taking form of "Forsättning, Nybörjare" (i.e. Continuation, Beginner)|
 |Proficiency level type|Course-level based|
 |Official language testing|mixed sources|
 |Comparison data (L1 source)|N/A|
@@ -251,9 +251,10 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 | Additional material              | Free text comment                |
 | Additional comments              | Free text comment                |
 | Additional comment on coursebooks used | Book title(s) / free text |
-| Approximate level                | Nybörjare                    |
+| Approximate level                | Nybörjare                    | 
 |                                  | Fortsättning                 |
-|                                  | Avancerad                    |
+|                                  | Avancerad   |
+|                                  |additional marker "Fortsättning" (i.e. Continuation) added where necessary to the other descriptors. Note that the order of the two descriptors always come in the alphabetical order, thus sometimes taking form of "Forsättning, Nybörjare" (i.e. Continuation, Beginner)
 | Tasks - subject / topic          | 1. Din första arbetsplats alt. Kvinnors arbete; 2. Mejl till kusin på besök i Sverige  |
 |                                  | 1. När jag var liten och gick till skolan första gången; 2. Mejl till kusin på besök i Sverige  |
 |                                  | Argumenterande text om arbetsmoral |
