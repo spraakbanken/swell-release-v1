@@ -32,16 +32,19 @@ ________________________________________________________________________________
  
   
 _____________________________________________________________________________________
-## 1. General and administrative information
+## 1. General information
+
 **Total nr essays**: 105 (June, 19, 2021)
 
 **Nr sentences**: 3 708 (?)
 
-**Nr tokens**: 60 632, incl. punctuation
+**Nr tokens**: 60 632, incl. punctuation and NL-tokens (see below)
 
 **Levels represented** (CEFR scale): B2, C1
 
 **No manual coding/labeling** was performed, except very basic anonymization control
+
+**NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and a counted towards running tokens.
 
 _____________________________________________________________________________________
 
