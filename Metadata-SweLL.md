@@ -52,7 +52,9 @@ ________________________________________________________________________________
 
 **Levels represented** (based on the level of the courses): A, B, C
 
-**Manual coding/labeling**: pseudonymization, normalization, correction annotation
+**Manual coding/labeling**: pseudonymization, normalization, correction annotation. 
+
+**Inter-annotator agreement** (IAA) was calculated on the basis of 10% of the essays (i.e. 50 essays) that were double-annotated with correction labels. IAA is 88% by both Fleiss' kappa and Krippendorff's alpha.
 
 **NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and a counted towards running tokens.
 
