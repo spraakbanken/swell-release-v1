@@ -18,7 +18,7 @@ ________________________________________________________________________________
   
   - [1.3 To cite the TISUS subcorpus](#13-to-cite-the-TISUS-subcorpus)
 
-[2. Metadata description for the TISUS subcorpus](#2-metadata-description-for-the-TISUS-subcorpus)    
+[2. Metadata description for the TISUS subcorpus](#2-metadata-description-for-the-tisus-subcorpus)    
 
   - [2.1 Administrative information](#21-administrative-information)
   
@@ -89,7 +89,7 @@ ________________________________________________________________________________
 
 
 
-## 2. Metadata description for the SpIn subcorpus
+## 2. Metadata description for the TISUS subcorpus
 _____________________________________________________________________________________
 
 
