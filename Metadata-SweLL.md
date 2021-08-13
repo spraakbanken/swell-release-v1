@@ -400,7 +400,6 @@ d by an equivalent |
 **Correction annotation guidelines:**
 
 [https://spraakbanken.github.io/swell-project/Correction-annotation\_guidelines-and-codebook](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines-and-codebook)
-(Needs updating!)
 
 To see an overview of the number of tags at various approximate levels, see Appendix in Volodina et al. (2021): https://arxiv.org/pdf/2105.06681.pdf
 
