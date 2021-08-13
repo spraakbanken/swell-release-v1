@@ -215,7 +215,7 @@ ________________________________________________________________________________
 |***Description***||
 |:-------------|:--------------|
 |Illegible handwriting|rendered by the sign @ for each illegible letter|
-|Names, streets|Format: NN, NN-gata|
+|Names, streets|anonymized using format: NN, NN-gata|
 
 _____________________________________________________________________________________
 
