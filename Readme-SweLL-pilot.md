@@ -2,6 +2,8 @@
 
 *(Elena Volodina, July 01, 2021)*
 
+*Contact info: swell@svenska.gu.se*
+
 *The most recent version of this ReadMe file is available at https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot*
 
 SweLL-pilot corpus is a corpus of essays written by adult learners of Swedish. It was collected during the period of 2007-2016, and contains 502 essays that have been anonymized and graded with CEFR labels. There are three subcorpora:
