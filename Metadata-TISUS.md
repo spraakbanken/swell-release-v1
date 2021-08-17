@@ -111,7 +111,7 @@ ________________________________________________________________________________
 |L2 target language|Swedish; exam taken in Sweden|
 |L1 (mother tongue)|multiple; represented as iso-codes and usual names|
 |Period of collection|2006|
-|Corpus size|105 essays; 3 708 sentences; 60 632 tokens (incl punctuation)|
+|Corpus size|105 essays; 3 422 sentences; 60 632 tokens (incl punctuation)|
 |Corpus mode|written language: essays collected from an official exam|
 |Annotation|transcription, anonymization control|
 |Transcription guidelines|see article: [http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)|
