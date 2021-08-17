@@ -70,7 +70,8 @@ ________________________________________________________________________________
 
 *Mode/format*: All essays were written in exam setting. Most of the essays were written by hand and were transcribed later by L2 specialists. 
 
-*Time constraints* N/A;
+*Time constraints* 150 minutes
+
 No *access to extra materials* was allowed except handouts. However, no handouts are made available to corpus users (see details in *Task Metadata*).
 
 *CEFR levels* are indicative only. They were assigned by mapping grades on the written assignment according to the following scheme: failed (i.e. grades 1-2) => B2, grades 3-5 => C1. This mapping was made based on the assumption that since the test was announced as equivalent to CEFR level C1, all "passed" students on the written assignment had competence of that level or higher. A more rigorous re-grading is left for future. 
@@ -174,7 +175,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |***Writing task details***||
 |• Task type [*task type / task_type*]|Behörighetsprov|
 |• Task - format [*task format / task_format*]|Handwritten|
-|• Task duration (in minutes)|210 minutes|
+|• Task duration (in minutes)|150 minutes|
 |• Text type / genre [*genre / text_types*]|Argumenterande|
 |• Task instructions |N/A for |
 |• Allowed aids|None except handouts|
