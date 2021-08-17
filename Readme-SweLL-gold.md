@@ -10,24 +10,26 @@ More information about this corpus can be found in the *Metadata section* below,
 
 
 ## SweLL-gold folder contains
-Descriptive files:
+**Descriptive files**:
 1. the current *ReadMe* file -- and an online version that may be updated [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
 2. *swell_metadataDescription.pdf* -- a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
 3. *swell_metadata.xlsx* - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the Metadata file below.
 4. *stats_pseudoLABEL.xlsx* - a spreadsheet containing all pseudonymization labels ordered by essay-ID.
 5. *stats_corrLABEL.xlsx* - a spreadsheet containing all correction (aka error) labels ordered by essay-ID.
 
-Data files:
+**Data files**:
 
 6. *swelldata.json* - all SweLL-gold essays (502) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
 7.  *swelldata.txt* - raw texts, both  original and target versions, in one file 
-8. *swellOriginal*-folder contains    
+8. *swellOriginal*-folder contains
+    
     8.1 *sourceSweLL.txt* - raw text files with original essays (pseudonymized versions)
     
     8.2 *sourceSweLL.xml* - an xml version of the original essays following Korp format. Attributes and variables are described in the Metadata file below. No linguistic annotation is added to this version
     
     8.3 *sourceSweLL_Ling_annotated.xml* -- an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
-9. *swellTarget*-folder contains    
+9. *swellTarget*-folder contains  
+  
     9.1 *targetSweLL.txt* - raw text files with normalized essays
     
     9.2 *targetSweLL.xml* - an xml version of the normalized essays following Korp format. Attributes and variables are described in the Metadata file below. No linguistic annotation is added to this version
