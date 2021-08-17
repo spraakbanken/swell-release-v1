@@ -13,7 +13,7 @@ More information about this corpus can be found in the *Metadata section* below,
 **Descriptive files**:
 1. the current *ReadMe* file -- and an online version that may be updated [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
 2. *swell_metadataDescription.pdf* -- a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
-3. *swell_metadata.xlsx* - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *swell_metadataDescription.pdf* (or in ite online counterpart). Besides, four additional points of information are provided in the excel file, namely:
+3. *swell_metadata.xlsx* - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *swell_metadataDescription.pdf* (or in its online counterpart). Besides, four additional points of information are provided in the excel file, namely:
     * sentences, i.e. number of sentences per essay
     * tokens, i.e. number of tokens per essay
     * correction_lables, i.e. number of correction labels used in the essay
