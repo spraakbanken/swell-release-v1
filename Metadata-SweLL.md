@@ -298,7 +298,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |                                  | Världens lyckligaste länder  |
 |                                  | Övnings-pm inför NP          |
 |                                  |etc|
-| Topic domain [*lessontext_topic*]| Not available for SweLL-gold; present in some SweLL-pilot corpora and in COCTAILL|
+| Topic domain [*lessontext_topic*]| Not available for SweLL-gold; present in some SweLL-pilot corpora and in COCTAILL. Topics in accordance with COCTAILL taxonomy < https://www.aclweb.org/anthology/W14-3510.pdf >|
 | Task_url                         | In certain cases where handouts were used, attachments are available at the urls. |
 
 
