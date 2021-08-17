@@ -92,7 +92,7 @@ ________________________________________________________________________________
 registered (approved) users. Handwritten essays were transcribed using secure encrypted environment (SweLL kiosk). All essays were manually
 **pseudonymized** (using SweLL kiosk) based on the Pseudonymization guidelines:
 
-[https://spraakbanken.github.io/swell-project/Pseudonymization\_guidelines](https://spraakbanken.github.io/swell-project/Anonymization_guidelines)
+[https://spraakbanken.github.io/swell-project/Pseudonymization\_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)
 
 *Mode*: All essays were written as an exam, in a classroom. Most of the essays were written by hand and were **transcribed** later according to
 the Transcription Guidelines:
@@ -150,7 +150,7 @@ ________________________________________________________________________________
 |Corpus mode|written language: essays collected from classroom/exam setting|
 |Annotation|transcription, pseudonymization, normalization, correction annotation, automatic linguistic annotation|
 |Transcription guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Transcription_guidelines](https://spraakbanken.github.io/swell-project/Transcription_guidelines)|
-|Pseudonymization guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Anonymization_guidelines](https://spraakbanken.github.io/swell-project/Anonymization_guidelines)|
+|Pseudonymization guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)|
 |Normalization guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Normalization_guidelines](https://spraakbanken.github.io/swell-project/Normalization_guidelines)|
 |Correction annotation guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines)|
 |Written versions|One version of each essay (no several submissions of the same text)|
@@ -358,7 +358,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 Pseudonymization guidelines:
 
-[https://spraakbanken.github.io/swell-project/Anonymization\_guidelines](https://spraakbanken.github.io/swell-project/Anonymization_guidelines)
+[https://spraakbanken.github.io/swell-project/Pseudonymization\_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)
 (Needs updating!)
 
 | ***Category type*** | ***Codes*** | ***Pseudonym / details*** |
