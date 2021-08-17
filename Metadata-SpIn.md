@@ -2,7 +2,7 @@
 
 **A subcorpus in the SweLL-pilot collection**
 
-*(Elena Volodina, July, 1, 2021)*
+*(Elena Volodina, August, 17, 2021)*
 
 *The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn](https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn)*
 
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 (*Version from 2016*) Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. < https://arxiv.org/pdf/1604.06583.pdf >
 
-(*Version from 2021*) The above article + updated statistics in this documentation. The major difference between the versions from 2016 and 2021 is that additional 112 essays have been transcribed and anonymized. Additionally, all attributes and the corresponding values (e.g. level, language names, etc) have been harmonized between several other learner subcorpora in the SweLL collection to make possible searches in several of them at the same time.
+(*Version from 2021*) The above article + updated statistics in this documentation. The major difference between the versions from 2016 and 2021 is that additional 112 essays have been transcribed and anonymized. Additionally, all attributes and the corresponding values (e.g. level, language names, etc) have been harmonized between several other learner subcorpora in the SweLL collection to make possible searches in several of them at the same time. It is the first time that the corpus is officially released for users.
 
 *Personal data management*: Essays were collected following a consent from the learners. The consent allows the use of essays for research by registered (approved) users. Handwritten essays were transcribed and manually anonymized according to the principles described in Volodina et al. (2016).
 
@@ -108,7 +108,7 @@ ________________________________________________________________________________
 |L2 target language|Swedish; courses taken in Sweden|
 |L1 (mother tongue)|multiple; represented as iso-codes and usual names|
 |Period of collection|2012-2016|
-|Corpus size|256 essays; 4 327 sentence; 44 996 tokens (incl punctuation)|
+|Corpus size|256 essays; 4 302 sentences; 46 911 tokens (incl punctuation)|
 |Corpus mode|written language: essays collected from (classroom/midterm) exams|
 |Annotation|transcription, anonymization|
 |Transcription guidelines|see article: [http://arxiv.org/pdf/1604.06583v1.pdf](http://arxiv.org/pdf/1604.06583v1.pdf)|
@@ -119,7 +119,7 @@ ________________________________________________________________________________
 |Official language testing|no|
 |Comparison data (L1 source)|N/A|
 |**Corpus annotation info**||
-|Manual annotation|anonymization|
+|Manual annotation|yes, anonymization|
 |Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
 ||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
 ||lemmatization, incl word sense disambiguation and multi-word identification, SALDO-based |
@@ -133,7 +133,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 | ***General*** |   |
 |:-------------|:--------------|
 |• Student ID [*student ID / student_id*]|166 unique students, e.g. S16. Letter prefix (for a school) + a running number|
-|• Age in 5-year intervals [*age / age*] | Age groups in SpIn: 16-20; 21-25; 26-30 |
+|• Age in 5-year intervals [*age / age*] | A 5-year age interval indicating the age at the moment of writing an essay. Age groups in SpIn: 16-20; 21-25; 26-30 |
 |• Birth year in 5-year intervals [*birth year / birthyear_interval*]|1990-1994 => 7 students|
 ||1995-1999 => 151 students|
 ||2000-2004 => 3 students|
@@ -143,10 +143,11 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 ||Unknown => 2|
 |• Time in Sweden (sum in months) [*residence / time_in_sweden*]|0 - 42 |
 |• Native language(s) [*native language / iso_l1*]|29  unique languages in 38 unique combinations of 1-3 languages|
-|• Education level [*education level / edu_level*]|0-6 years => 65|
-||7-9  years => 44|
-||10-13 years => 52|
-||14+ years => 0|
+||For easiness of interpretation, the full name of the language is provided as well in the xml files and in the metadata excel|
+|• Education background [*education level / edu_level*]|0-6 years years of schooling (including elementary school) => 65|
+||7-9 years (including high school) => 44|
+||10-13 years (including upper-secondary education) => 52|
+||14+ years (including university education) => 0|
 ||N/A => 5|
 |• Exam [*exam / exam*]|Educational certificate, if available. Free text.|
 |• Writing language [*writing language / writing_language*]|The best language in writing. N/A for SpIn|
@@ -158,10 +159,11 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 |***Administrative Metadata***||
 |:-------------|:--------------|
-|• Task ID [*task id / task_id*]|Task ID in the corpus. A letter prefix (for a school) + T(ask) + a running number, e.g. AT14. Total of 37 unique tasks|
-|• Datum [*date / datum*]|Automatic Korp value, e.g. “2014-01-01”|
+|• Task ID [*task id / task_id*]|Task ID in the corpus. A letter prefix (for a school) + T(ask) + a running number, e.g. ST14. Total of 37 unique tasks|
+|• Datum [*date / datum*]|Automatic Korp value, e.g. “2014-01-01”, in this case - a derivative of *task_date*. Datum is used by Korp search engine to create trend diagrams.|
 |• Task date [*task date / task_date*]| The year and week (year-week) when the essay was written, e.g. 2012-W44 (SpIn data collected during 2012-2016)|
-|• Course type / school form [*school type / school_type*]|Ungdomsgymnasiet|
+|• Course type / school form [*school type / school_type*]|A generic description of the type of the school/education where essay has been collected from|
+||Ungdomsgymnasiet|
 |• Course level [*course subject / course_subject*]|Språkintroduktion för nyanlända|
 |• Grading scale [*grading scale / grading_scale*]|CEFR (A1-B2)|
 |***Writing task details***||
@@ -171,9 +173,9 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |• Text type / genre [*genre / text_types*]|E.g. berättande, argumenterande|
 |• Task instructions |N/A for SpIn|
 |• Allowed aids|None|
-|• Tasks - subject / topic [*task subject / subject*]|E.g. Min skola, Bästa dag i mitt liv, etc.|
+|• Tasks - subject / topic [*task_subject / subject*]| A topic of the essay, e.g. Min skola, Bästa dag i mitt liv, etc.|
 |• Lessontext_topic [*lessontext_topic / lessontext_topic*]|Topics in accordance with COCTAILL taxonomy < https://www.aclweb.org/anthology/W14-3510.pdf >|
-|• Task-url|N/A for SpIn. Handouts for the tasks were not used or made available|
+|• Task_url| In certain cases where handouts were used, attachments are available at the urls. However, very few handouts for the tasks were made available|
 
 _____________________________________________________________________________________
 
@@ -183,7 +185,8 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 |***Description***||
 |:-------------|:--------------|
-|• Essays per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent" (longitudinal) students if the value is 2 or above|
+|• Essay ID [*essay ID / essay_id*]|Essay ID consists of a student ID (e.g. *S1*) + task ID (e.g. *ST1*) == *S1ST1* |
+|• Essays per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent" (longitudinal) students if the value is 2 or above. For example, "2" means that there are 2 essays written by that particular student|
 ||1 essay/student => 32|
 ||2 essays/student => 66|
 ||3 essays/student => 18|
@@ -194,8 +197,15 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 ||B1 => 46|
 ||B2 => 2|
 ||Unknown => 6   |                 
-|• Grade [*grade / grade*]|N/A|
+|• Grade [*grade / grade*]|reported as the CEFR level|
 |• Full text [*full text / svala_link*] |A link to the full essay that opens in SVALA annotation tool |
+|***Additional attributes***|A few attributes that are present in other SweLL subcorpora, and have been added to each SweLL subcorpus for the sake of interoperability.|
+|• Result on the writing assignment [*written proficiency / written_result*]|TISUS-attribute|
+|• Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|TISUS-attribute |
+|• Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|TISUS-attribute |
+|• Reading comprehension, sum [*reading comprehension (sum) / lf_sum*]|TISUS-attribute |
+|• Oral proficiency [*oral proficiency / oral_result*]|TISUS-attribute |
+|• Final grade [*final grade / final_grade*]| TISUS-attribute |
 
 _____________________________________________________________________________________
 
