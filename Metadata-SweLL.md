@@ -1,6 +1,6 @@
 # **Metadata description: the SweLL-gold corpus**
 
-*(Elena Volodina, July, 2, 2021)*
+*(Elena Volodina, August, 17, 2021)*
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL)
 
