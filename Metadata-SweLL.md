@@ -146,7 +146,7 @@ ________________________________________________________________________________
 |L2 target language|Swedish; courses taken in Sweden|
 |L1 (mother tongue)|multiple; represented as iso-codes and usual names|
 |Period of collection|20017-2020|
-|Corpus size|502 essays; 7 805 sentences; 147 743 tokens, incl punctuation (original version))|
+|Corpus size|502 essays; 7 807 sentences; 147 842 tokens, incl punctuation (original version))|
 |Corpus mode|written language: essays collected from classroom/exam setting|
 |Annotation|transcription, pseudonymization, normalization, correction annotation, automatic linguistic annotation|
 |Written versions|One version of each essay (no several submissions of the same text)|
