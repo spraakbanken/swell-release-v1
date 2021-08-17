@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 **Inter-annotator agreement** (IAA): 88% by both Fleiss' kappa and Krippendorff's alpha. IAA was calculated on the basis of 10% of the essays (i.e. 50 essays) that were double-annotated with correction labels. 
 
-**NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and a counted towards running tokens.
+**NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and are counted towards running tokens.
 
 **Other subcorpora**: Apart from the SweLL-gold subcorpus, the SweLL collection contains other (sub)corpora collected in other projects, e.g. TISUS (2007), SpIn, SW1203. Other (sub)corpora may be added to the SweLL collection.
 _____________________________________________________________________________________
