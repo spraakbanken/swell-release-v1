@@ -23,31 +23,37 @@ More information about each subcorpus can be found in the *Metadata* files below
 
 2. SpIn-folder
 
-   2.1 spIn_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
+   2.1 spIn_metadataDescription.pdf - a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
+   
+   2.2. spIn_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
 
-   2.2 spIn.json - all SpIn essays (256) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+   2.3 spIn.json - all SpIn essays (256) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
    
-   2.3 spIn.txt - raw essay texts (i.e. containing no annotation)
+   2.4 spIn.txt - raw essay texts (i.e. containing no annotation)
    
-   2.4 spIn.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
+   2.5 spIn.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
    
-   2.5 spIn_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
+   2.6 spIn_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
 
 3. SW1203-folder
 
-   3.1 sw_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
+   3.1 sw_metadataDescription.pdf - a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
    
-   3.2 sw.json - all SpIn essays (141) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+   3.2 sw_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
    
-   3.3 sw.txt - raw essay texts (i.e. containing no annotation)
+   3.3 sw.json - all SpIn essays (141) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
    
-   3.4 sw.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
+   3.4 sw.txt - raw essay texts (i.e. containing no annotation)
    
-   3.5 sw_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
+   3.5 sw.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
+   
+   3.6 sw_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
 
 4. TISUS-folder
 
-   4.1 metadata_TISUS.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
+   4.1 tisus_metadataDescription.pdf - a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
+   
+   4.2 metadata_TISUS.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
    
    4.2 tisus.json - all SpIn essays (105) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
    
