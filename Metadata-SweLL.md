@@ -200,6 +200,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
   | Education: additional comments  | Free text |
   | ***Language information*** |    |                                 
   | Education in L1 (hemspråk, education in Sweden) | Language name |
+  |• *Characteristics below are available in the material, but not in the xml files or Korp*||
   | Length of education in L1, nr months (hemspråk) | 1 - 168 |
   | Swedish proficiency courses | Self-instruction, formal education |
   | Length of Swedish proficiency courses, nr months | 1 - 336 |
