@@ -11,7 +11,7 @@ More information about this corpus can be found in the *Metadata section* below,
 
 ## SweLL-gold folder contains
 Descriptive files:
-1. the current *ReadMe* file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
+1. the current *ReadMe* file -- and an online version that may be updated [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
 2. *swell_metadataDescription.pdf* -- a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
 3. *swell_metadata.xlsx* - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the Metadata file below.
 4. *stats_pseudoLABEL.xlsx* - a spreadsheet containing all pseudonymization labels ordered by essay-ID.
