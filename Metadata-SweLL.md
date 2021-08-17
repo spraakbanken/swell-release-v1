@@ -149,10 +149,6 @@ ________________________________________________________________________________
 |Corpus size|502 essays; 7 805 sentences; 147 743 tokens, incl punctuation (original version))|
 |Corpus mode|written language: essays collected from classroom/exam setting|
 |Annotation|transcription, pseudonymization, normalization, correction annotation, automatic linguistic annotation|
-|Transcription guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Transcription_guidelines](https://spraakbanken.github.io/swell-project/Transcription_guidelines)|
-|Pseudonymization guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)|
-|Normalization guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Normalization_guidelines](https://spraakbanken.github.io/swell-project/Normalization_guidelines)|
-|Correction annotation guidelines|see guidelines: [https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines)|
 |Written versions|One version of each essay (no several submissions of the same text)|
 |Longitudinal|not intentionally; but some recurrent students appear, see section 2.4|
 |Proficiency levels|(approximate) development levels based on course level: A:Beginner, B:Intermediate, C:Advanced, with additional marker "Fortsättning" (i.e. Continuation) added where necessary. Note the the order of the two descriptors always come in the alphabetical order, thus sometimes taking form of "Forsättning, Nybörjare" (i.e. Continuation, Beginner)|
@@ -161,6 +157,11 @@ ________________________________________________________________________________
 |Comparison data (L1 source)|N/A|
 |**Corpus annotation info**||
 |Manual annotation|yes, pseudonymization, normalization, correction annotation|
+||Transcription guidelines: [https://spraakbanken.github.io/swell-project/Transcription_guidelines](https://spraakbanken.github.io/swell-project/Transcription_guidelines)|
+||Pseudonymization guidelines: [https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)|
+||Normalization guidelines: [https://spraakbanken.github.io/swell-project/Normalization_guidelines](https://spraakbanken.github.io/swell-project/Normalization_guidelines)|
+||Correction annotation guidelines: [https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines)|
+
 |Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
 ||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
 ||lemmatization, incl word sense disambiguation and multi-word identification, SALDO-based |
