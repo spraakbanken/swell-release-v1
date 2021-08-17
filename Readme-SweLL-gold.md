@@ -9,21 +9,28 @@ SweLL-gold corpus is a corpus of essays written by adult learners of Swedish. It
 More information about this corpus can be found in the *Metadata section* below, and in the articles in the *References* section (e.g. Volodina et al., 2019).
 
 
-## SweLL-gold.zip contains
-1. metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the Metadata file below.
-2. swelldata.json - all SweLL-gold essays (502) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
-3. swelldata.txt - raw texts, both  original and target versions, in one file 
-4. swellOriginal-folder contains    
-    * sourceSwell.txt - raw text files with original essays
-    * sourceSwell.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the Metadata file below.
-5. swellTarget-folder contains    
-    * targetSwell.txt - raw text files with normalized essays
-    * targetSwell.xml - an xml version of the normalized essays following Korp format. Attributes and variables are described in the Metadata file below.
-6. the current *ReadMe* file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
+## SweLL-gold foldeer contains
+Descriptive files:
+1. the current *ReadMe* file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
+2. swell_metadataDescription.pdf -- a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
+3. swell_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the Metadata file below.
+4. stats_pseudoLABEL.xlsx - a spreadsheet containing all pseudonymization labels ordered by essay-ID.
+5. stats_corrLABEL.xlsx - a spreadsheet containing all correction (aka error) labels ordered by essay-ID.
 
+Data files:
+6. swelldata.json - all SweLL-gold essays (502) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+7.  swelldata.txt - raw texts, both  original and target versions, in one file 
+8. swellOriginal-folder contains    
+    8.1 sourceSweLL.txt - raw text files with original essays (pseudonymized versions)
+    8.2 sourceSweLL.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the Metadata file below. No linguistic annotation is added to this version
+    8.3 sourceSweLL_Ling_annotated -- an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
+9. swellTarget-folder contains    
+    9.1 targetSweLL.txt - raw text files with normalized essays
+    9.2 targetSweLL.xml - an xml version of the normalized essays following Korp format. Attributes and variables are described in the Metadata file below. No linguistic annotation is added to this version
+    9.3 targetSweLL_Ling_annotated -- an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
+ 
 
-***Note!*** that no linguistic annotation is added to the essays. 
-Each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parralel representation (original, target, tags on the links between original and target tokens) using SVALA tool (Wirén et al. 2019). In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database. 
+**Note!** Each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parralel representation (original, target, tags on the links between original and target tokens) using SVALA tool (Wirén et al. 2019). In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database. 
 
 * To use SVALA, please have a look at the video: [https://gubox.box.com/s/tp5gm8dua0avs7luqbgxwicws5dl0jh5](https://gubox.box.com/s/tp5gm8dua0avs7luqbgxwicws5dl0jh5)
 * Currently, SVALA manual is available only in Swedish 
