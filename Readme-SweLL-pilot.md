@@ -38,7 +38,7 @@ More information about each subcorpus can be found in the *Metadata* files below
    
    2.5 spIn.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
    
-   2.6 spIn_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
+   2.6 spIn_Ling_annotated.xml - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
 
 3. SW1203-folder
 
@@ -57,13 +57,13 @@ More information about each subcorpus can be found in the *Metadata* files below
    
    3.5 sw.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
    
-   3.6 sw_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
+   3.6 sw_Ling_annotated.xml - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
 
 4. TISUS-folder
 
    4.1 tisus_metadataDescription.pdf - a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
    
-   4.2 metadata_TISUS.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below (and in its online counterpart). Besides, four additional points of information are provided in the excel file, namely:
+   4.2 tisus_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below (and in its online counterpart). Besides, four additional points of information are provided in the excel file, namely:
 
     * sentences, i.e. number of sentences per essay
     * tokens, i.e. number of tokens per essay
@@ -76,7 +76,7 @@ More information about each subcorpus can be found in the *Metadata* files below
    
    4.5 tisus.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
    
-   4.6 sw_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
+   4.6 tisus_Ling_annotated.xml - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
 
 ***Note!*** that each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parallel representation (original, target, tags on the links between original and target tokens) using SVALA tool  (Wirén et al. 2019). In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database.
 
