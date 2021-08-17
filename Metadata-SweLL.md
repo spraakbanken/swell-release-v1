@@ -183,7 +183,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
   ||For easiness of interpretation, the full name of the language is provided as well in the xml files and in the metadata excel|
   | ***Education*** |    |  
   | Education background [*education level / edu_level*]|1= 0-6 years of schooling (including elementary school) => 34|
-  ||2= 7-9  years (including hight school) => 56|
+  ||2= 7-9  years (including high school) => 56|
   ||3= 10-13 years (including upper-secondary education) => 155|
   ||4= 14+ years (including university education)=> 257|
   | Elementary education outside Sweden (nr months) | 12 - 156 |
@@ -219,7 +219,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 | Task ID  | Task ID in the corpus. A letter prefix (for a school) +  **T**(ask) + a running number,  e.g. **AT14**. Total of 52  unique tasks |
 | Semester (time span) | **VT-2018, HT-2018, VT-2019** (more is coming!) |
 | Task date  [*task date / task_date*] | Year-week, e.g. **2018-W20**     |
- |Datum [*datum*]                  |A formal representation of a date used for Korp search engine to create trend diagrams. In this case - a derivative of *task_date*|
+ |Datum [*datum*]                  |Automatic Korp value, e.g. “2014-01-01”, in this case - a derivative of *task_date*. Datum is used by Korp search engine to create trend diagrams.|
 | Course type / school type [*school_type*]       | A generic description of the type of the school/education where essay has been collected from|
 |                                  | Ungdomsgymnasiet             |
 |                                  | Universitetet                |
@@ -299,7 +299,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |                                  | Övnings-pm inför NP          |
 |                                  |etc|
 | Topic domain [*lessontext_topic*]| Not available for SweLL-gold; present in some SweLL-pilot corpora and in COCTAILL|
-| Task-url                         | In certain cases where handouts were used, attachments are available at the urls. |
+| Task_url                         | In certain cases where handouts were used, attachments are available at the urls. |
 
 
 
@@ -320,7 +320,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 ||5 essays per student => 19|                
 |• Grade [*grade / grade*]|Where available, is indicated for each task and student|
 |• Full text [*full text / svala_link*] |A link to the full essay that opens in SVALA annotation tool |
-|***Additional attributes***|A few attributes that are present in other SweLL subcorpora, and have been added to each SweLL for the sake of interoperability|
+|***Additional attributes***|A few attributes that are present in other SweLL subcorpora, and have been added to each SweLL subcorpus for the sake of interoperability|
 |• Result on the writing assignment [*written proficiency / written_result*]|TISUS-attribute|
 |• Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|TISUS-attribute |
 |• Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|TISUS-attribute |
