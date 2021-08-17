@@ -321,12 +321,12 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |• Grade [*grade / grade*]|Where available, is indicated for each task and student|
 |• Full text [*full text / svala_link*] |A link to the full essay that opens in SVALA annotation tool |
 |***Additional attributes***|A few attributes that are present in other SweLL subcorpora, and have been added to each SweLL for the sake of interoperability|
-|• Result on the writing assignment [*written proficiency / written_result*]|**TISUS-attribute** |
-|• Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|**TISUS-attribute** |
-|• Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|**TISUS-attribute** |
-|• Reading comprehension, sum [*reading comprehension (sum) / lf_sum*]|**TISUS-attribute** |
-|• Oral proficiency [*oral proficiency / oral_result*]|**TISUS-attribute** |
-|• Final grade [*final grade / final_grade*]| **TISUS-attribute** |
+|• Result on the writing assignment [*written proficiency / written_result*]|TISUS-attribute|
+|• Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|TISUS-attribute |
+|• Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|TISUS-attribute |
+|• Reading comprehension, sum [*reading comprehension (sum) / lf_sum*]|TISUS-attribute |
+|• Oral proficiency [*oral proficiency / oral_result*]|TISUS-attribute |
+|• Final grade [*final grade / final_grade*]| TISUS-attribute |
 |Proficiency level [*proficiency level (CEFR) / cefr_level*]| Present in some of SweLL subcorpora (e.g. TISUS, SW1203, SpIn), however, absent in SweLL-gold v1 |
 
 
