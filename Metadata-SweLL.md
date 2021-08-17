@@ -92,7 +92,7 @@ ________________________________________________________________________________
 registered (approved) users. Handwritten essays were transcribed using secure encrypted environment (SweLL kiosk). All essays were manually
 **pseudonymized** (using SweLL kiosk) based on the Pseudonymization guidelines:
 
-[https://spraakbanken.github.io/swell-project/Anonymization\_guidelines](https://spraakbanken.github.io/swell-project/Anonymization_guidelines)
+[https://spraakbanken.github.io/swell-project/Pseudonymization\_guidelines](https://spraakbanken.github.io/swell-project/Anonymization_guidelines)
 
 *Mode*: All essays were written as an exam, in a classroom. Most of the essays were written by hand and were **transcribed** later according to
 the Transcription Guidelines:
