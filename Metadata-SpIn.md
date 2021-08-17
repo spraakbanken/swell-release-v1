@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 **No manual coding/labeling** was performed, except very basic anonymization
 
-**NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and a counted towards running tokens.
+**NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and are counted towards running tokens.
 
 _____________________________________________________________________________________
 
