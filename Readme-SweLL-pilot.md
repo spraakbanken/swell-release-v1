@@ -19,7 +19,7 @@ More information about each subcorpus can be found in the *Metadata* files below
 
 ### SweLL-pilot.zip contains
 
-1. the current ReadMe file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot)
+1. the current ReadMe file [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot)
 
 2. SpIn-folder
 
