@@ -25,7 +25,12 @@ More information about each subcorpus can be found in the *Metadata* files below
 
    2.1 spIn_metadataDescription.pdf - a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
    
-   2.2. spIn_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
+   2.2. spIn_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below (and in its online counterpart). Besides, four additional points of information are provided in the excel file, namely:
+
+    * sentences, i.e. number of sentences per essay
+    * tokens, i.e. number of tokens per essay
+    * correction_lables, i.e. number of correction labels used in the essay (relevant only for SweLL-gold essays)
+    * pseudo_lables, i.e. number of pseudonymization labels used in the essay (relevant only for SweLL-gold essays)
 
    2.3 spIn.json - all SpIn essays (256) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
    
@@ -39,7 +44,12 @@ More information about each subcorpus can be found in the *Metadata* files below
 
    3.1 sw_metadataDescription.pdf - a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
    
-   3.2 sw_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
+   3.2 sw_metadata.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below (and in its online counterpart). Besides, four additional points of information are provided in the excel file, namely:
+
+    * sentences, i.e. number of sentences per essay
+    * tokens, i.e. number of tokens per essay
+    * correction_lables, i.e. number of correction labels used in the essay (relevant only for SweLL-gold essays)
+    * pseudo_lables, i.e. number of pseudonymization labels used in the essay (relevant only for SweLL-gold essays)
    
    3.3 sw.json - all SpIn essays (141) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
    
@@ -53,7 +63,12 @@ More information about each subcorpus can be found in the *Metadata* files below
 
    4.1 tisus_metadataDescription.pdf - a pdf version (as of August 2021) of the metadata-description available at the link https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS. The information available at the link is continuously updated, which means it could be useful to check it for later updates.
    
-   4.2 metadata_TISUS.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
+   4.2 metadata_TISUS.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below (and in its online counterpart). Besides, four additional points of information are provided in the excel file, namely:
+
+    * sentences, i.e. number of sentences per essay
+    * tokens, i.e. number of tokens per essay
+    * correction_lables, i.e. number of correction labels used in the essay (relevant only for SweLL-gold essays)
+    *  pseudo_lables, i.e. number of pseudonymization labels used in the essay (relevant only for SweLL-gold essays)
    
    4.3 tisus.json - all SpIn essays (105) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
    
