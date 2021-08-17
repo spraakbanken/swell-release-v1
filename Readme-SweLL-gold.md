@@ -18,6 +18,7 @@ Descriptive files:
 5. stats_corrLABEL.xlsx - a spreadsheet containing all correction (aka error) labels ordered by essay-ID.
 
 Data files:
+
 6. swelldata.json - all SweLL-gold essays (502) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
 7.  swelldata.txt - raw texts, both  original and target versions, in one file 
 8. swellOriginal-folder contains    
