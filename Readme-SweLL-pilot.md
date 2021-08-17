@@ -55,13 +55,13 @@ More information about each subcorpus can be found in the *Metadata* files below
    
    4.2 metadata_TISUS.xlsx - a spreadsheet containing all metadata ordered by essay-ID. Attributes and variables are described in the *Metadata* file below.
    
-   4.2 tisus.json - all SpIn essays (105) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
+   4.3 tisus.json - all SpIn essays (105) in a json format (aka SVALA format), see Wirén et al. (2019) for the description. The json representation contains three objects: "source", "target" and "edges". Edges are links going between token-id in the source to token-id in the target, with tags describing the difference between one and another. Additionally, pseudonymization tags may be attached to the links.
    
-   4.3 tisus.txt - raw essay texts (i.e. containing no annotation)
+   4.4 tisus.txt - raw essay texts (i.e. containing no annotation)
    
-   4.4 tisus.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
+   4.5 tisus.xml - an xml version of the original essays following Korp format. Attributes and variables are described in the *Metadata* file below.
    
-   4.5 sw_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
+   4.6 sw_Ling_annotated - an xml version (Korp format) of the original essays with linguistic annotation using Sparv-pipeline.
 
 ***Note!*** that each format includes a so-called SVALA-link (or full-text link) for each essay. Using that link you can open an essay in a full-text version in a parallel representation (original, target, tags on the links between original and target tokens) using SVALA tool  (Wirén et al. 2019). In SVALA, you will be able to play with various annotation modes and tagsets. However, please be aware that the added annotations are not saved to any database.
 
