@@ -161,7 +161,6 @@ ________________________________________________________________________________
 ||Pseudonymization guidelines: [https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)|
 ||Normalization guidelines: [https://spraakbanken.github.io/swell-project/Normalization_guidelines](https://spraakbanken.github.io/swell-project/Normalization_guidelines)|
 ||Correction annotation guidelines: [https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines)|
-
 |Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
 ||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
 ||lemmatization, incl word sense disambiguation and multi-word identification, SALDO-based |
