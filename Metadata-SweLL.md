@@ -175,15 +175,17 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
   | ***General*** |   |
   |:-------------|:--------------|
   | Student ID [*student ID / student_id*]| **451** unique students, e.g. **C16**. Letter prefix (for a school) + a running number |
-  | Birth year in 5-year intervals [*age / age*]| 1950-1954 \-- 2000-2004 |
+  | Age [*age / age*]| A 5-year age interval indicating the age at the moment of writing an essay, e.g. 31-35|
+  | Birth year in 5-year intervals [*birthyear_interval / birth year*]| 1950-1954 \-- 2000-2004 |
   | Gender [*gender / gender*]| Kvinna, Man, Annat, Vill inte säga |
   | Time in Sweden (sum in months) [*residence / time_in_sweden*]| 0 - 315 |
   | Native language(s) [*native language / iso_l1*]| **81** unique languages in 117 unique combinations of 1-4 languages |
+  ||For easiness of interpretation, the full name of the language is provided as well in the xml files and in the metadata excel|
   | ***Education*** |    |  
-  | Education level [*education level / edu_level*]|1= 0-6 years => 34|
-  ||2= 7-9  years => 56|
-  ||3= 10-13 years => 155|
-  ||4=14+ years => 257|
+  | Education background [*education level / edu_level*]|1= 0-6 years of schooling (including elementary school) => 34|
+  ||2= 7-9  years (including hight school) => 56|
+  ||3= 10-13 years (including upper-secondary education) => 155|
+  ||4= 14+ years (including university education)=> 257|
   | Elementary education outside Sweden (nr months) | 12 - 156 |
   | Elementary education in Sweden (nr months) | 12 - 132 |
   | Introductory education in Sweden (nyanlända) (months) | 1 - 36|
@@ -203,7 +205,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
   | Length of Swedish proficiency courses, nr months | 1 - 336 |
   | All known languages | List of languages |
   | Other known language(s) except mother tongue(s) | List of languages |
-  | Best written language(s) | List of languages |
+  | Best written language(s) [*writing_language*]| List of languages; not used for filtering in Korp |
   | Best spoken language(s) | Language name(s) |
   | Language(s) used with the family | Language name(s) |
   | Language(s) used with friends | Language name(s) |
@@ -215,18 +217,20 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |:------------------|:------------------|
 | Task ID  | Task ID in the corpus. A letter prefix (for a school) +  **T**(ask) + a running number,  e.g. **AT14**. Total of 52  unique tasks |
 | Semester (time span) | **VT-2018, HT-2018, VT-2019** (more is coming!) |
-| Task date                        | Year-week, e.g. **2018-W20**     |
-| Course type / school form        | Ungdomsgymnasiet             |
+| Task date  [*task date / task_date*] | Year-week, e.g. **2018-W20**     |
+ |Datum [*datum*]                  |A formal representation of a date used for Korp search engine to create trend diagrams. In this case - a derivative of *task_date*|
+| Course type / school type [*school_type*]       | A generic description of the type of the school/education where essay has been collected from|
+|                                  | Ungdomsgymnasiet             |
 |                                  | Universitetet                |
 |                                  | Vuxenutbildningen            |
-| Course level                     | Behörighetsgivande kurs      |
+| Course level  / course subject  [*course_subject*]  | Behörighetsgivande kurs      |
 |                                  | Förberedande kurs            |
 |                                  | Grundläggande SVA dk3        |
 |                                  | Inplaceringsprov SFI         |
 |                                  | SFI B / C / D                |
 |                                  | SVA 2 / 3                    |
 |                                  | TISUS                        |
-| Grading scale                    | A-F                          |
+| Grading scale  [*grading_scale*] | A-F                          |
 |                                  | G/U                          |
 |                                  | SFI inplacering              |
 |                                  | Uppgiften har inte betyg     |
@@ -237,7 +241,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |                                  | Mitterminsprov               |
 |                                  | Slutprov                     |
 |                                  | Test inför NP (Nationella Prov) |
-| Task - form / mode               | Handskriven, Digital            |
+| Task - format / mode [*task_format*]| Mode of the essay writing: Handskriven, Digital            |
 | Task duration (in minutes)       | 25\--180                        |
 | Text type / genre                | Argumenterande               |
 |                                  | Berättande                   |
@@ -253,11 +257,13 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 | Additional material              | Free text comment                |
 | Additional comments              | Free text comment                |
 | Additional comment on coursebooks used | Book title(s) / free text |
-| Approximate level                | Nybörjare                    | 
+| Approximate level                | Approximate mapping of the course type to the level of proficiency.|
+|                                  | Nybörjare                    | 
 |                                  | Fortsättning                 |
 |                                  | Avancerad   |
 |                                  |additional marker "Fortsättning" (i.e. Continuation) added where necessary to the other descriptors. Note that the order of the two descriptors always come in the alphabetical order, thus sometimes taking form of "Forsättning, Nybörjare" (i.e. Continuation, Beginner)
-| Tasks - subject / topic          | 1. Din första arbetsplats alt. Kvinnors arbete; 2. Mejl till kusin på besök i Sverige  |
+| Tasks - subject / topic [*task_subject*] | A topic of the essay, e.g.|
+|                                  |1. Din första arbetsplats alt. Kvinnors arbete; 2. Mejl till kusin på besök i Sverige  |
 |                                  | 1. När jag var liten och gick till skolan första gången; 2. Mejl till kusin på besök i Sverige  |
 |                                  | Argumenterande text om arbetsmoral |
 |                                  | Argumenterande text/brev     |
@@ -290,8 +296,10 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |                                  | Utredande text (pm) övning inför NP |
 |                                  | Världens lyckligaste länder  |
 |                                  | Övnings-pm inför NP          |
-||etc|
+|                                  |etc|
+| Topic domain [*lessontext_topic*]| Not available for SweLL-gold; present in some SweLL-pilot corpora and in COCTAILL|
 | Task-url                         | In certain cases where handouts were used, attachments are available at the urls. |
+
 
 
 ### 2.4 Essay metadata
@@ -302,14 +310,23 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 |***Descriptive metadata***||
 |:-------------|:--------------|
-|• Essay per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent students" if the value is 2 or above. |
+|• Essay ID [*essay ID / essay_id*]|Essay ID consists of a student ID (e.g. *A1*) + task ID (e.g. *AT1*) == *A1AT1* |
+|• Essay per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent students" if the value is 2 or above. For example, "2" means that there are 2 essays written by that particular student|
 ||1 essay per student => 177|
 ||2 essays per student => 151|
 ||3 essays per student => 92|
 ||4 essays per student => 63|
 ||5 essays per student => 19|                
-|• Grade [*grade / grade*]|Where available, is indicated for each task|
+|• Grade [*grade / grade*]|Where available, is indicated for each task and student|
 |• Full text [*full text / svala_link*] |A link to the full essay that opens in SVALA annotation tool |
+|***Additional attributes***|A few attributes that are present in other SweLL subcorpora, and have been added to each SweLL for the sake of interoperability|
+|• Result on the writing assignment [*written proficiency / written_result*]|**TISUS-attribute** |
+|• Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|**TISUS-attribute** |
+|• Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|**TISUS-attribute** |
+|• Reading comprehension, sum [*reading comprehension (sum) / lf_sum*]|**TISUS-attribute** |
+|• Oral proficiency [*oral proficiency / oral_result*]|**TISUS-attribute** |
+|• Final grade [*final grade / final_grade*]| **TISUS-attribute** |
+|Proficiency level [*proficiency level (CEFR) / cefr_level*]| Present in some of SweLL subcorpora (e.g. TISUS, SW1203, SpIn), however, absent in SweLL-gold v1 |
 
 
 ---
@@ -319,6 +336,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
   | ***School listing***  |    |  ***Description*** |
   |:------------------|:---------------|:---------------- |
+  |• Source [not available in Korp for filtering, but present in the xml files]|a letter indicating a school where the essays has been collected from, see the listing below|
   | A                | Vuxenutbildningscentrum | Inplacering SFI-utbildning: A-D |
   | B                |  Gymnasieskola             ||      
   | C                |  Komvux/SFI                    |  SFI A-D |
@@ -330,6 +348,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
   |K|Grundläggande SVA||
   |L|SVA-kurser på gymnasienivå ||
   |M|Prov för antagning och inplacering till förberedande respektive behörighetsgivande kurser ||
+
 
  
 
