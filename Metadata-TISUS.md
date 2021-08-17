@@ -2,7 +2,7 @@
 # Metadata description: TISUS (sub)corpus
 **A subcorpus in the SweLL-pilot collection**
 
-*(Elena Volodina, July, 2, 2021)*
+*(Elena Volodina, August, 17, 2021)*
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS](https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS)
 * Previous version of the metadata description: [https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_explanations2.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata_explanations2.pdf)
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 **Total nr essays**: 105 (June, 19, 2021)
 
-**Nr sentences**: 3 708 (?)
+**Nr sentences**: 3 422
 
 **Nr tokens**: 60 632, incl. punctuation and NL-tokens (see below)
 
@@ -70,10 +70,10 @@ ________________________________________________________________________________
 
 *Mode/format*: All essays were written in exam setting. Most of the essays were written by hand and were transcribed later by L2 specialists. 
 
-*Time constraints* ??? hours;
+*Time constraints* N/A;
 No *access to extra materials* was allowed except handouts. However, no handouts are made available to corpus users (see details in *Task Metadata*).
 
-*CEFR levels* are indicative only. They were assigned by mapping grades on the written assignment according to the following scheme: failed (i.e. grades 1-2) => B2, grades 3-5 => C1. This mapping was made based on the assumption that since the test was announced as equivalent to CEFR level C1, all "passed" students on the written assignment had competence of that level or higher. A more rigorous re-grading is planned for future. 
+*CEFR levels* are indicative only. They were assigned by mapping grades on the written assignment according to the following scheme: failed (i.e. grades 1-2) => B2, grades 3-5 => C1. This mapping was made based on the assumption that since the test was announced as equivalent to CEFR level C1, all "passed" students on the written assignment had competence of that level or higher. A more rigorous re-grading is left for future. 
 
 To get more information on access to TISUS and other SweLL corpora, see the webpage: 
 [https://spraakbanken.gu.se/en/projects/swell/swell4users](https://spraakbanken.gu.se/en/projects/swell/swell4users) and
@@ -136,15 +136,16 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 | ***General*** |   |
 |:-------------|:--------------|
 |• Student ID [*student ID / student_id*]|105 unique students, e.g. T16. Letter prefix (for a school) + a running number|
-|• Age in 5-year intervals [*age / age*] | Age groups in TISUS: e.g. 16-20; age groups 16-45 are represented|
+|• Age in 5-year intervals [*age / age*] | A 5-year age interval indicating the age at the moment of writing an essay, e.g. 16-20. Age groups in TISUS: 16-45|
 |• Birth year in 5-year intervals [*birth year / birthyear_interval*]|e.g. 1960-1964; birth year spans between 1960 and 1989 are represented|
 |• Gender [*gender / gender*]|Kvinna, Man |
 |• Time in Sweden (sum in months) [*residence / time_in_sweden*]|spans between 0-264 months|
 |• Native language(s) [*native language / iso_l1*]|32 unique languages in combinations of 1-2 languages|
-|• Education level [*education level / edu_level*]|1= 0-6 years => 3|
-||2= 7-9  years => 28|
-||3= 10-13 years => 30|
-||4=14+ years => 20|
+||For ease of interpretation, the full name of the language is provided as well in Korp, in the xml files and in the metadata excel file|
+|• Education background [*education level / edu_level*]|1= 0-6 years of schooling (including elementary school)=> 3|
+||2= 7-9 years (including high school) => 28|
+||3= 10-13 years (including upper-secondary education) => 30|
+||4= 14+ years (including university education) => 20|
 ||5= ??? => 24|
 |• Exam [*exam / exam*]|Educational certificate, if available. Free text. N/A for TISUS|
 |• Writing language [*writing language / writing_language*]|The best language in writing. N/A for TISUS|
@@ -156,7 +157,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 |***Descriptive metadata***||
 |:-------------|:--------------|
-|• Task ID [*task id / task_id*]|Task ID in the corpus. A letter prefix (for a school) + T(ask) + a running number, e.g. TT1. 1 task for all essays|
+|• Task ID [*task id / task_id*]|Task ID in the corpus. A letter prefix (for a school) + T(ask) + a running number, e.g. TT1. One unique task for all essays|
 |• Datum [*date / datum*]|Automatic Korp value, e.g. “2014-01-01”|
 |• Task date [*task date / task_date*]| The year and week (year-week) when the essay was written, e.g. 2006-W20 (TISUS data collected from one exam occasion)|
 |• Course type / school form [*school type / school_type*]|N/A|
@@ -189,10 +190,11 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 |***Descriptive metadata***||
 |:-------------|:--------------|
+|• Essay ID [*essay ID / essay_id*]|Essay ID consists of a student ID (e.g. *T*) + task ID (e.g. *TT1*) == *T1TT1* |
 |• Essay per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent students" if the value is 2 or above. No recurrent students in TISUS|
 |• CEFR level [*proficiency level / cefr_level*]|B2 => 32|
 ||C1 => 73|                
-|• Grade [*grade / grade*]|N/A|
+|• Grade [*grade / grade*]|In Tisus *grade* and *cefr level* are identical|
 |• Full text [*full text / svala_link*] |A link to the full essay that opens in SVALA annotation tool |
 
 _____________________________________________________________________________________
