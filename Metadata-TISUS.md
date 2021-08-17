@@ -158,7 +158,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |***Descriptive metadata***||
 |:-------------|:--------------|
 |• Task ID [*task id / task_id*]|Task ID in the corpus. A letter prefix (for a school) + T(ask) + a running number, e.g. TT1. One unique task for all essays|
-|• Datum [*date / datum*]|Automatic Korp value, e.g. “2014-01-01”|
+|• Datum [*date / datum*]|Automatic Korp value, e.g. “2014-01-01”, in this case - a derivative of *task_date*. *Datum* is used by Korp search engine to create trend diagrams.|
 |• Task date [*task date / task_date*]| The year and week (year-week) when the essay was written, e.g. 2006-W20 (TISUS data collected from one exam occasion)|
 |• Course type / school form [*school type / school_type*]|N/A|
 |• Course level [*course subject / course_subject*]|N/A|
@@ -178,9 +178,9 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |• Text type / genre [*genre / text_types*]|Argumenterande|
 |• Task instructions |N/A for |
 |• Allowed aids|None except handouts|
-|• Tasks - subject / topic [*task subject / subject*]|E.g. Stress i dagenssamhälle|
-|• Lessontext_topic [*lessontext_topic / lessontext_topic*]|Topics in accordance with COCTAILL taxonomy [https://www.aclweb.org/anthology/W14-3510.pdf](https://www.aclweb.org/anthology/W14-3510.pdf)|
-|• Task-url|N/A for TISUS|
+|• Tasks - subject / topic [*task_subject / subject*]|E.g. Stress i dagenssamhälle. One task subject for all essays|
+|• Lessontext_topic [*lessontext_topic / lessontext_topic*]|Topics in accordance with COCTAILL taxonomy [https://www.aclweb.org/anthology/W14-3510.pdf](https://www.aclweb.org/anthology/W14-3510.pdf). N/A for TISUS|
+|• Task_url|N/A for TISUS|
 
 _____________________________________________________________________________________
 
