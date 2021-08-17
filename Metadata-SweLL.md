@@ -360,7 +360,6 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 Pseudonymization guidelines:
 
 [https://spraakbanken.github.io/swell-project/Pseudonymization\_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)
-(Needs updating!)
 
 | ***Category type*** | ***Codes*** | ***Pseudonym / details*** |
 |:---------------------|:-------------|:------------------------|
@@ -415,11 +414,11 @@ d by an equivalent |
 **Normalization guidelines:**
 
 [https://spraakbanken.github.io/swell-project/Normalization\_guidelines](https://spraakbanken.github.io/swell-project/Normalization_guidelines)
-(Needs updating!)
+
 
 **Correction annotation guidelines:**
 
-[https://spraakbanken.github.io/swell-project/Correction-annotation\_guidelines-and-codebook](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines-and-codebook)
+[https://spraakbanken.github.io/swell-project/Correction-annotation\_guidelines-and-codebook](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines-and-codebook) (Needs updating!)
 
 To see an overview of the number of tags at various approximate levels, see Appendix in Volodina et al. (2021): https://arxiv.org/pdf/2105.06681.pdf
 
