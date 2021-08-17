@@ -143,11 +143,11 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 ||Unknown => 2|
 |• Time in Sweden (sum in months) [*residence / time_in_sweden*]|0 - 42 |
 |• Native language(s) [*native language / iso_l1*]|29  unique languages in 38 unique combinations of 1-3 languages|
-||For easiness of interpretation, the full name of the language is provided as well in the xml files and in the metadata excel|
-|• Education background [*education level / edu_level*]|0-6 years years of schooling (including elementary school) => 65|
-||7-9 years (including high school) => 44|
-||10-13 years (including upper-secondary education) => 52|
-||14+ years (including university education) => 0|
+||For ease of interpretation, the full name of the language is provided as well as an iso-code in Korp, in the xml files and in the metadata excel|
+|• Education background [*education level / edu_level*]|1 = 0-6 years of schooling (including elementary school) => 65|
+||2 = 7-9 years (including high school) => 44|
+||3 = 10-13 years (including upper-secondary education) => 52|
+||4 = 14+ years (including university education) => 0|
 ||N/A => 5|
 |• Exam [*exam / exam*]|Educational certificate, if available. Free text.|
 |• Writing language [*writing language / writing_language*]|The best language in writing. N/A for SpIn|
