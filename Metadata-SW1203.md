@@ -1,7 +1,7 @@
 # Metadata description: SW1203 (sub)corpus
 **A subcorpus in the SweLL-pilot collection**
 
-*(Elena Volodina, July, 1, 2021)*
+*(Elena Volodina, August, 17, 2021)*
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203](https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203)
 * Previous version of the metadata description: [https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata\_SW1203_0.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata\_SW1203_0.pdf)
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 **No manual coding/labeling** was performed, except very basic anonymization
 
-**NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and a counted towards running tokens.
+**NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and are counted towards running tokens.
 
 _____________________________________________________________________________________
 
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 SW1203 is a subcorpus of SweLL-pilot collection of learner essays written by adult immigrants learning Swedish in Sweden. The essays were collected from the  preparatory (language) courses for prospective university students during the academic year 2012-2013. (Almost) each student wrote three (3) essays: entrance exam, mid-term exam and final exam. The setting of the essay collection has given the name to this subcorpus (**SW**edish-year-**12**-nr.essays-**03**). Learners filled in consent forms and allowed use of their essays and personal metadata for research. 
 
-Essays were collected on the initiative of individual university teachers. All later work on linguistic annotation, file format conversions and CEEFR grading was funded by *Språkbanken* and *Center for Language Technology* (CLT), both at the University of Gothenburg, Sweden, during 2012-2016. Part of the work on metadata harmonization was carried out later as part of the [*L2 profiles project*](https://spraakbanken.gu.se/en/projects/l2profiles) and [*SweLL infrastructure project*](https://spraakbanken.gu.se/en/projects/swell). 
+Essays were collected on the initiative of individual university teachers who performed transcription and anonymization. All later work on linguistic annotation, file format conversions and CEEFR grading was funded by *Språkbanken* and *Center for Language Technology* (CLT), both at the University of Gothenburg, Sweden, during 2012-2016. Part of the work on metadata harmonization was carried out later as part of the [*L2 profiles project*](https://spraakbanken.gu.se/en/projects/l2profiles) and [*SweLL infrastructure project*](https://spraakbanken.gu.se/en/projects/swell). 
 
 For approved users, SW1203 is available through Korp search interface and as a full dataset via a link that is sent to approved users. To get access, apply using this form: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell). 
 
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 *Time constraints* 3,5 hours;
 No *access to extra materials* was allowed except handouts (see details in *Task Metadata*).
 
-*CEFR levels* were assigned separately by two CEFR experts each, see a [grading document](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Bedomningar_SW1203.pdf)
+*CEFR levels* were assigned separately by two CEFR experts each, see a [grading document < https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Bedomningar_SW1203.pdf >](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Bedomningar_SW1203.pdf)
 
 To get more information on access to SW1203 and other SweLL corpora, see the webpage: 
 [https://spraakbanken.gu.se/en/projects/swell/swell4users](https://spraakbanken.gu.se/en/projects/swell/swell4users) and
@@ -134,15 +134,16 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 | ***General*** |   |
 |:-------------|:--------------|
 |• Student ID [*student ID / student_id*]|54 unique students, e.g. W16. Letter prefix (for a school) + a running number|
-|• Age in 5-year intervals [*age / age*] | Age groups in SW1203: e.g. 16-20; age groups 16-50 are represented|
+|• Age in 5-year intervals [*age / age*] | A 5-year age interval indicating the age at the moment of writing an essay, e.g. 16-20; age groups 16-50 are represented|
 |• Birth year in 5-year intervals [*birth year / birthyear_interval*]|e.g. 1960-1964; birth year spans between 1960 and 1994 are represented|
 |• Gender [*gender / gender*]|Kvinna, Man |
 |• Time in Sweden (sum in months) [*residence / time_in_sweden*]|N/A |
 |• Native language(s) [*native language / iso_l1*]|27  unique languages in combinations of 1-3 languages|
-|• Education level [*education level / edu_level*]|1= 0-6 years => 0|
-||2= 7-9  years => 0|
-||3= 10-13 years => 54|
-||14+ years => 0|
+||For ease of interpretation, the full name of the language is provided as well in the xml files and in the metadata excel|
+|• Education background [*education level / edu_level*]|1= 0-6 years of schooling (including elementary school) => 0|
+||2= 7-9 years (including high school) => 0|
+||3= 10-13 years (including upper-secondary education) => 54|
+||4= 14+ years (including university education) => 0|
 |• Exam [*exam / exam*]|Educational certificate, if available. Free text. N/A for SW1203|
 |• Writing language [*writing language / writing_language*]|The best language in writing. N/A for SW1203|
 
@@ -154,14 +155,15 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |***Descriptive metadata***||
 |:-------------|:--------------|
 |• Task ID [*task id / task_id*]|Task ID in the corpus. A letter prefix (for a school) + T(ask) + a running number, e.g. WT14. Total of 8 unique tasks|
-|• Datum [*date / datum*]|Automatic Korp value, e.g. “2014-01-01”|
+|• Datum [*date / datum*]|Automatic Korp value, e.g. “2014-01-01”, in this case - a derivative of *task_date*. Datum is used by Korp search engine to create trend diagrams.|
 ||inträdesprov A -HT12: 2012-08-30; VT13:2012-12-12|
 ||mitterminsprov B –HT12: 2012-10-16; VT13:2013-03-20|
 ||slutprov C –HT12: 2012-12-12; VT13:2013-05-21|
 ||omprov D –HT12: 2013-01-10; VT13:2013-06-05|
 |• Task date [*task date / task_date*]| The year and week (year-week) when the essay was written, e.g. 2012-W44 (SW1203 data collected during 2012-2013)|
-|• Course type / school form [*school type / school_type*]|Behörighetsgivande kurs|
-|• Course level [*course subject / course_subject*]|Universitetet|
+|• Course type / school form [*school type / school_type*]|A generic description of the type of the school/education where essay has been collected from|
+||Universitetet|
+|• Course level [*course subject / course_subject*]|Behörighetsgivande kurs|
 |• Grading scale [*grading scale / grading_scale*]|CEFR (B1-C2)|
 |***Writing task details***||
 |• Task type [*task type / task_type*]|A: Inträdesuppsats (52 st)|
@@ -173,9 +175,9 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 |• Text type / genre [*genre / text_types*]|Argumenterande|
 |• Task instructions |yes, for some tasks|
 |• Allowed aids|None except handouts|
-|• Tasks - subject / topic [*task subject / subject*]|E.g. Yttrandefrihet|
-|• Lessontext_topic [*lessontext_topic / lessontext_topic*]|Topics in accordance with COCTAILL taxonomy [https://www.aclweb.org/anthology/W14-3510.pdf](https://www.aclweb.org/anthology/W14-3510.pdf)|
-|• Task-url|links where available|
+|• Tasks - subject / topic [*task_subject / subject*]|E.g. Yttrandefrihet|
+|• Lessontext_topic [*lessontext_topic / lessontext_topic*]|Topics in accordance with COCTAILL taxonomy [https://www.aclweb.org/anthology/W14-3510.pdf](https://www.aclweb.org/anthology/W14-3510.pdf). N/A for SW1203|
+|• Task_url|links where available|
 ||Ett brev till politikerna i kommunen: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_BrevTillPolitiker.pdf)|
 ||Det goda livet: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_DetGodaLivet.pdf)|
 ||Internet som mötesplats: [handout](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SW1203_InternetMotesplats.pdf)|
@@ -193,7 +195,8 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 |***Descriptive metadata***||
 |:-------------|:--------------|
-|• Essays per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent students" if the value is 2 or above|
+|• Essay ID [*essay ID / essay_id*]|Essay ID consists of a student ID (e.g. *W1*) + task ID (e.g. *WT1*) == *W1WT1* |
+|• Essays per student [*uppsatser/student / nr_essay_student*]|numbers 1-5, indicating "recurrent" (longitudinal) students if the value is 2 or above. For example, "2" means that there are 2 essays written by that particular student|
 ||1 essay/student => 5|
 ||2 essays/student => 28|
 ||3 essays/student => 96|
@@ -202,8 +205,15 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 ||B2 => 71 essays|
 ||C1 => 23|
 ||C2 => 7|                
-|• Grade [*grade / grade*]|N/A|
+|• Grade [*grade / grade*]|In SW1203 *grade* and *CEFR level* are the same|
 |• Full text [*full text / svala_link*] |A link to the full essay that opens in SVALA annotation tool |
+|***Additional attributes***|A few attributes that are present in other SweLL subcorpora, and have been added to each SweLL subcorpus for the sake of interoperability.|
+|• Result on the writing assignment [*written proficiency / written_result*]|TISUS-attribute|
+|• Reading comprehension 1 / LF1 [*reading comprehension (result), part 1 / lf1_result*]|TISUS-attribute |
+|• Reading comprehension 2 / LF2 [*reading comprehension (result), part 2 / lf2_result*]|TISUS-attribute |
+|• Reading comprehension, sum [*reading comprehension (sum) / lf_sum*]|TISUS-attribute |
+|• Oral proficiency [*oral proficiency / oral_result*]|TISUS-attribute |
+|• Final grade [*final grade / final_grade*]| TISUS-attribute |
 
 _____________________________________________________________________________________
 
@@ -212,7 +222,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 |***Description***||
 |:-------------|:--------------|
-|School ID [*source / source*]|Letter *S* for Centrum för **S**pråkintroduktion|
+|School ID [*source / source*]|Letter *W* for S**W**1203; a unversity course for prospective students, preparatory before TISUS exam|
 ||a one-year intensive program that aims to prepare newly arrived refugees/learners for the next transitional training stage before they can proceed with the upper-secondary studies at national Swedish schools|
 |Approximate level [*approximate level / approximate_level*]|Level assigned based on the type of course, roughly split into A:Beginners, B:Intermediate and C:Advanced, with additional marker "Fortsättning" (i.e. Continuation) added where necessary. Note the the order of the two descriptors always come in the alphabetical order, thus sometimes taking form of "Forsättning, Nybörjare" (i.e. Continuation, Beginner)|
 
