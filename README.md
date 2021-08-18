@@ -17,7 +17,7 @@ This repository contains (updatable) versions of the following files:-->
 **If approved:** 
 * Store application file on Nextcloud (folder SweLL-v1/SweLL_user_agreements)
 * Add Korp-user using [https://ws.spraakbanken.gu.se/](https://ws.spraakbanken.gu.se/) to *SweLL, SW1203, TISUS* and *SpIn* corpora
-* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), and mark "Read only" and "Expiration date" (approx one month from the date you share). Use the following text and cc to *swell@svenska.gu.se*:
+* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), and mark "Read only" and - potentially - "Expiration date" (approx one month from the date you share). Use the following text and cc to *swell@svenska.gu.se*:
 
 -----
 
@@ -25,7 +25,7 @@ This repository contains (updatable) versions of the following files:-->
    
    Thank you for your interest in the SweLL data!
     
-   You should have received a main invitation from "SBX" (or some variation of that) to access the data in the folder "SweLL_release_v1". If not, please check your Junk-folder. The invitation is open one month. 
+   You should by now have received a mail invitation from "SBX" (or some variation of that) to access the data in the folder "SweLL_release_v1". If not, please check your Junk-folder. *The invitation is open one month. ?** 
        
    This access in personal, and should not be shared with others. 
     
