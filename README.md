@@ -60,18 +60,18 @@ The users who have been approved following an access application, will get acces
     * 2 files with raw texts, one for the original version and one for the normalized version
 2. metadata in an excel file, ordered by essay-IDs
 3. metadata description in pdf 
-4. readme file with links to medata description, links to articles: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold
+4. readme file with links to medata description, links to articles: [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
  
 
 ## ReadMe files for corpus users 
 
-* Readme for SweLL-pilot: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot
-* Readme for SweLL-gold: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold
+* Readme for SweLL-pilot: [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot)
+* Readme for SweLL-gold: [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
 
 ## Metadata description files
  
-* SweLL gold: https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL
-* SpIn (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn
-* SW1203 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203
-* TISUS 2007 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS
+* SweLL gold: [https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL)
+* SpIn (part of SweLL-pilot): [https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn](https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn)
+* SW1203 (part of SweLL-pilot): [https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203](https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203)
+* TISUS 2007 (part of SweLL-pilot): [https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS](https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS)
 
