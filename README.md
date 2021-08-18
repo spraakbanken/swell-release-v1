@@ -14,20 +14,26 @@ This repository contains (updatable) versions of the following files:-->
     * Those who are (1) geographically from Europe and (2) have research interests within language learning (research, teaching, development, assessment, etc) should be approved.
     * Those who deviate in any of the two conditions above, should be recommended to send their application to GU lawyers (e.g. Erica Schweder < erica.schweder@gu.se >)
 
-If approved: 
+**If approved:** 
 * Store application file on Nextcloud (folder SweLL-v1/SweLL_user_agreements)
 * Add Korp-user using [https://ws.spraakbanken.gu.se/](https://ws.spraakbanken.gu.se/) to *SweLL, SW1203, TISUS* and *SpIn* corpora
-* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), set password and an expiration date for the access link (≈1 month from the granting day) and mail out. Use the following text and cc to *swell@svenska.gu.se*:
+* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), and mark "Read only". Use the following text and cc to *swell@svenska.gu.se*:
 
-    *Thank you for your interest in the SweLL data!*
+-----
+
+   Dear XXX,
+   
+   Thank you for your interest in the SweLL data!
     
-    *You can download the data from **LINK** using password **PASSWORD***
+   You should have received a main invitation from "SBX" (or some variation of that) to access the data in the folder "SweLL_release_v1". If not, please check your Junk-folder.
        
-    *The password is valid for 1 month, so make sure you download the data in time.*
+   This access in personal, and should not be shared with others. 
     
-    *Happy exploring,*
+   Happy exploring,
     
-    *SweLL team (swell@svenska.gu.se)*
+   SweLL team (swell@svenska.gu.se)
+    
+----
        
  * The list of applicants should be available through [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell) (application form), but we would need to evaluate the procedure and see whether there is a need to keep track of all approved users. 
 
