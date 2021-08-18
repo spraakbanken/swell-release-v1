@@ -1,6 +1,10 @@
 # SweLL-release
 Final documentation for the SweLL corpora (as of August 2021)
 
+Files included in this repository are intended for inclusion (as links) into the downloadable SweLL-gold and SweLL-pilot zip-files. Those links can be found in the readme files for each corpus, as well as seen in the L2 Korp on an information sidebar.  
+
+This repository contains (updatable) versions of the following files:
+
 ## Metadata description files for
  
 * SweLL gold: https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL
