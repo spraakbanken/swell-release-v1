@@ -1,21 +1,12 @@
 # SweLL-release
 Final documentation for the SweLL corpora (as of August 2021)
 
-Files included in this repository are intended for inclusion (as links) into the downloadable SweLL-gold and SweLL-pilot zip-files. Those links can be found in the readme files for each corpus, as well as seen in the L2 Korp on an information sidebar.  
+Online version: [https://spraakbanken.github.io/swell-release-v1/](https://spraakbanken.github.io/swell-release-v1/)
 
-This repository contains (updatable) versions of the following files:
+<!--Files included in this repository are intended for inclusion (as links) into the downloadable SweLL-gold and SweLL-pilot zip-files. Those links can be found in the readme files for each corpus, as well as seen in the L2 Korp on an information sidebar.  
 
-## Metadata description files for
- 
-* SweLL gold: https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL
-* SpIn (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn
-* SW1203 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203
-* TISUS 2007 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS
+This repository contains (updatable) versions of the following files:-->
 
-## ReadMe files for corpus users 
-
-* Readme for SweLL-pilot: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot
-* Readme for SweLL-gold: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold
 
 ## Procedure for providing access to the SweLL corpora
 
@@ -66,3 +57,16 @@ The users who have been approved following an access application, will get acces
 3. metadata description in pdf 
 4. readme file with links to medata description, links to articles: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold
  
+
+## ReadMe files for corpus users 
+
+* Readme for SweLL-pilot: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-pilot
+* Readme for SweLL-gold: https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold
+
+## Metadata description files
+ 
+* SweLL gold: https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL
+* SpIn (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn
+* SW1203 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203
+* TISUS 2007 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS
+
