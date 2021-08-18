@@ -17,12 +17,16 @@ This repository contains (updatable) versions of the following files:-->
 If approved: 
 * Store application file on Nextcloud (folder SweLL-v1/SweLL_user_agreements)
 * Add Korp-user using [https://ws.spraakbanken.gu.se/](https://ws.spraakbanken.gu.se/) to *SweLL, SW1203, TISUS* and *SpIn* corpora
-* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), set password and an expiration date for the access link (≈1 month from the granting day) and mail out. Use the following text:
-    ** Thank you for your interest in the SweLL data! 
-       You can download the data from **LINK** using password **PASSWORD**
-       The password is valid for 1 month, so make sure you download the data in time. 
-       Happy exploring,
-       SweLL team (swell@svenska.gu.se)
+* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), set password and an expiration date for the access link (≈1 month from the granting day) and mail out. Use the following text and cc to *swell@svenska.gu.se*:
+
+    *Thank you for your interest in the SweLL data!*
+    
+    *You can download the data from **LINK** using password **PASSWORD** 
+       
+    *The password is valid for 1 month, so make sure you download the data in time.*
+    
+    *Happy exploring,*
+    *SweLL team (swell@svenska.gu.se)*
        
  * The list of applicants should be available through https://sunet.artologik.net/gu/Survey/11747 (application form), but we would need to evaluate the procedure and see whether there is a need to keep track of all approved users. 
 
