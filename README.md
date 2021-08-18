@@ -29,7 +29,7 @@ If approved:
     
     *SweLL team (swell@svenska.gu.se)*
        
- * The list of applicants should be available through https://sunet.artologik.net/gu/Survey/11747 (application form), but we would need to evaluate the procedure and see whether there is a need to keep track of all approved users. 
+ * The list of applicants should be available through [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell) (application form), but we would need to evaluate the procedure and see whether there is a need to keep track of all approved users. 
 
 ## .zip files for download
 
