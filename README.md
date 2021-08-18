@@ -10,7 +10,7 @@ This repository contains (updatable) versions of the following files:-->
 
 ## Procedure for providing access to the SweLL corpora
 
-* Application form: [https://sunet.artologik.net/gu/Survey/11747](https://sunet.artologik.net/gu/Survey/11747)
+* Application form: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell)
     * Those who are (1) geographically from Europe and (2) have research interests within language learning (research, teaching, development, assessment, etc) should be approved.
     * Those who deviate in any of the two conditions above, should be recommended to send their application to GU lawyers (e.g. Erica Schweder < erica.schweder@gu.se >)
 
