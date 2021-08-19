@@ -1,4 +1,4 @@
-# Readme: SweLL-release-v1
+# Readme: Introduction
 *August 2021*
 
 Online version: [https://spraakbanken.github.io/swell-release-v1/Readme-intro](https://spraakbanken.github.io/swell-release-v1/Readme-intro)
