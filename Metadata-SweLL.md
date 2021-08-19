@@ -363,24 +363,23 @@ Pseudonymization guidelines:
 
 | ***Category type*** | ***Codes*** | ***Pseudonym / details*** |
 |:---------------------|:-------------|:------------------------|
-| Names             | firstname\_male       | 
-d by an equivalent |
+| Names             | firstname\_male       | replaced by an equivalent |
 |                   | firstname\_female     |                       |
 |                   | firstname\_unknown    |                       |
 |                   | initials              |                       |
 |                   | middlename            |                       |
 |                   | surname               |                       |
-| Geographical data | city (+*foreign* for non-Swedish ones) | Swedish names  replaced with dummy names;|
+| Geographical data | city (+*foreign* for non-Swedish ones) | Swedish names  replaced with dummy names or X-stad randomly|
 |                   | area (+*foreign* for non-Swe ones) |  All other names with  equivalent ones (i.e. cities with other cities)|
-|                   | country               |      |
-|                   | geo                   |                       |
-|                   | place                 |                       |
-|                   | region                |                       |
+|                   | country               | Sverige is not replaced; other countries replaced with X-land |
+|                   | geo                   | X-geoplats  |
+|                   | place                 | fake name or X-plats  |
+|                   | region                | fake name or X-region  |
 |                   | street\_nr            |                       |
-|                   | zip\_code             |                       |
-| Institutions      | school                | replaced with equivalents |
+|                   | zip\_code             | 00000          |
+| Institutions      | school                | replaced with X-skola randomly |
 |                   | work                  |                       |
-|                   | other\_institution    |                       |
+|                   | other\_institution    | replaced with X-institution randomly |
 | Transportation    | transport\_name       | replaced with X-linjen randomly   |
 |                   | transport\_nr         |                       |
 | Age               | age\_digits | replaced with a random number in the +-2 span from the  actual number  |
