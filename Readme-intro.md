@@ -1,49 +1,40 @@
-# SweLL-release
-Final documentation for the SweLL corpora (as of August 2021)
+# Readme: SweLL-release-v1
+*August 2021*
 
-Online version: [https://spraakbanken.github.io/swell-release-v1/](https://spraakbanken.github.io/swell-release-v1/)
+Online version: [https://spraakbanken.github.io/swell-release-v1/Readme-intro](https://spraakbanken.github.io/swell-release-v1/Readme-intro)
 
-<!--Files included in this repository are intended for inclusion (as links) into the downloadable SweLL-gold and SweLL-pilot zip-files. Those links can be found in the readme files for each corpus, as well as seen in the L2 Korp on an information sidebar.  
+This repository contains two downloadable zip-files for SweLL-gold and SweLL-pilot corpora. 
 
-This repository contains (updatable) versions of the following files:-->
-
-
-## Procedure for providing access to the SweLL corpora
-
-* Application form: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell)
-    * Those who are (1) geographically from Europe and (2) have research interests within language learning (research, teaching, development, assessment, etc) should be approved.
-    * Those who deviate in any of the two conditions above, should be recommended to send their application to GU lawyers (e.g. Erica Schweder < erica.schweder@gu.se >)
-
-**If approved:** 
-* Store application file on Nextcloud (folder SweLL-v1/SweLL_user_agreements)
-* Add Korp-user using [https://ws.spraakbanken.gu.se/](https://ws.spraakbanken.gu.se/) to *SweLL, SW1203, TISUS* and *SpIn* corpora
-* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), and mark "Read only" and - potentially - "Expiration date" (approx one month from the date you share). Use the following text and cc to *swell@svenska.gu.se*:
-
------
-
-   Dear XXX,
-   
-   Thank you for your interest in the SweLL data!
-    
-   You should by now have received a mail invitation from "SBX" (or some variation of that) to access the data in the folder "SweLL_release_v1". If not, please check your Junk-folder. *The invitation is open one month. ?** 
-       
-   This access in personal, and should not be shared with others. 
-    
-   Happy exploring,
-    
-   SweLL team (swell@svenska.gu.se)
-    
-----
-       
- * The list of applicants should be available through [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell) (application form), but we would need to evaluate the procedure and see whether there is a need to keep track of all approved users. 
-
-## .zip files for download
-
-The users who have been approved following an access application, will get access to the following two .zip files
+The users who have been approved following an access application, get access to the following two .zip files:
 
 * SweLL-pilot (collection period 2007-2016): 502 essays that were anonymized (with CEFR labels)
 * SweLL-gold  (collection period 2017-2020): 502 essays that were pseudonymized, normalized, correction annotated (no CEFR labels)
 
+
+## SweLL-pilot, 2006-2016: 502 essays with CEFR labels
+...is a corpus collected during a period 2006-2016 from three sources: 
+
+* TISUS exams (TISUS subcorpus, 105 essays) 
+* university courses (SW1203, 141 essays)
+* Language introduction courses for newly arrived (SpIn, 256 essays)
+
+All essays have been transcribed and anonymized, but NO CORRECTION ANNOTATION was performed. These essays have been harmonized with the SweLL-gold corpus so that the same set of attributes and values could be used. 
+
+The SweLL-pilot.zip contains more information about each subcorpus and the metadata used.
+
+## SweLL-gold, 2017-2020: 502 essays with correction annotation
+...is a corpus collected during a period 2017-2020 in the project SweLL. All essays have been manually 
+* transcribed 
+* pseudonymized
+* normalized
+* correction-annotated 
+
+Note that NO CEFR LABELING was performed.  
+
+The SweLL-gold.zip contains more information the corpus and its metadata.
+
+
+## .zip files for download
 
 ### SweLL-pilot.zip contains
 
@@ -66,7 +57,8 @@ The users who have been approved following an access application, will get acces
     * 2 files with raw texts, one for the original version and one for the normalized version
 2. metadata in an excel file, ordered by essay-IDs
 3. metadata description in pdf 
-4. readme file with links to medata description, links to articles: [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
+4. two excel files with statistics: for pseudo-labels and for correction-labels
+5. readme file with links to medata description, articles, etc: [https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold](https://spraakbanken.github.io/swell-release-v1/Readme-SweLL-gold)
  
 
 ## ReadMe files for corpus users 
