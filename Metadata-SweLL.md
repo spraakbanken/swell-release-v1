@@ -160,7 +160,7 @@ ________________________________________________________________________________
 ||Transcription guidelines: [https://spraakbanken.github.io/swell-project/Transcription_guidelines](https://spraakbanken.github.io/swell-project/Transcription_guidelines)|
 ||Pseudonymization guidelines: [https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)|
 ||Normalization guidelines: [https://spraakbanken.github.io/swell-project/Normalization_guidelines](https://spraakbanken.github.io/swell-project/Normalization_guidelines)|
-||Correction annotation guidelines: [https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines)|
+||Correction annotation guidelines: [https://gupea.ub.gu.se/handle/2077/69434](https://gupea.ub.gu.se/handle/2077/69434)|
 |Automatic annotation|yes, using [SPARV pipeline](https://spraakbanken.gu.se/sparv/#/): [https://spraakbanken.gu.se/en/tools/sparv/annotations](https://spraakbanken.gu.se/en/tools/sparv/annotations)|
 ||part-of-speech tagging, incl morpho-syntactic description: [https://spraakbanken.gu.se/korp/markup/msdtags.html](https://spraakbanken.gu.se/korp/markup/msdtags.html)|
 ||lemmatization, incl word sense disambiguation and multi-word identification, SALDO-based |
@@ -417,7 +417,7 @@ Pseudonymization guidelines:
 
 **Correction annotation guidelines:**
 
-[https://spraakbanken.github.io/swell-project/Correction-annotation\_guidelines-and-codebook](https://spraakbanken.github.io/swell-project/Correction-annotation_guidelines-and-codebook) (Needs updating!)
+[https://gupea.ub.gu.se/handle/2077/69434](https://gupea.ub.gu.se/handle/2077/69434)
 
 To see an overview of the number of tags at various approximate levels, see Appendix in Volodina et al. (2021): https://arxiv.org/pdf/2105.06681.pdf
 
