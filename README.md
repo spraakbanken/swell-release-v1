@@ -25,7 +25,11 @@ This repository contains (updatable) versions of the following files:-->
    
    Thank you for your interest in the SweLL data!
     
-   You should by now have received a mail invitation from "SBX" (or some variation of that) to access the data in the folder "SweLL_release_v1". If not, please check your Junk-folder. *The invitation is open one month. ?** 
+   You should by now have received 
+   
+   (1) a mail invitation from "SBX" (or some variation of that) to access the data in the folder "SweLL_release_v1". If not, please check your Junk-folder. 
+   
+   (2) a mail invitation to log in to Korp. To do searches in Korp in available learner corpora, please, check our webpage: https://spraakbanken.gu.se/en/projects/swell/l2korp .
        
    This access in personal, and should not be shared with others. 
     
