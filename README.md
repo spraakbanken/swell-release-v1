@@ -12,6 +12,10 @@ This repository contains (updatable) versions of the following files:-->
 
 * Application form: [https://sunet.artologik.net/gu/swell](https://sunet.artologik.net/gu/swell)
     * Those who are (1) geographically from Europe and (2) have research interests within language learning (research, teaching, development, assessment, etc) should be approved.
+    * Counries that can be approved without lawyers: 
+      * EU: Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.
+      * EEA: Iceland, Lichtenstein, Norway
+      * (Note that the status of the UK is still not clear (October 2020). Note also that Schweiz does not belong to EU/EEA.)
     * Those who deviate in any of the two conditions above, should be recommended to send their application to GU lawyers < dataskydd@gu.se >. Alternatively, we should forward their applications to that email
 
 **If approved:** 
