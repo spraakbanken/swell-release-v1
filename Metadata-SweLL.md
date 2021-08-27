@@ -43,18 +43,18 @@ ________________________________________________________________________________
 **Total nr corr-annotated essays**: 502 (SweLL-gold v.1.0) **NOTE**! In the SweLL corpus we use the term CORRECTION ANNOTATION instead of a more traditional ERROR ANNOTATION
 
 **Nr sentences**: 
-* Original veresion: 7 807
+* Original version: 7 807
 * Normalized version: 8 137
 
 **Nr tokens**: 
 * Original veresion:  147 842, incl. punctuation
 * Normalized version: 151 851, incl. punctuation
 
-**Levels represented** (based on the level of the courses): A, B, C (A=Beginner --> C=Advanced)
+**Proficiency levels represented** (based on the level of the courses of Swedish): A, B, C (A=Beginner, B=Intermediate, C=Advanced)
 
 **Manual coding/labeling**: pseudonymization, normalization, correction annotation. 
 
-**Inter-annotator agreement** (IAA): 88% by both Fleiss' kappa and Krippendorff's alpha. IAA was calculated on the basis of 10% of the essays (i.e. 50 essays) that were double-annotated with correction labels. 
+**Inter-annotator agreement** (IAA): 88% by Fleiss' kappa and 76% by Krippendorff's alpha. IAA was calculated on the basis of 10% of the essays (i.e. 50 essays) that were double-annotated with correction labels, and is counted based on annotated edges only. 
 
 **NOTE** the use of NL-tokens (i.e. **N**ew **L**ine breaks) to preserve line breaks in the original learner writings. NL-tokens do not correspond to any punctuation, are added to the beginning of the sentences following it, and are counted towards running tokens.
 
@@ -64,13 +64,13 @@ ________________________________________________________________________________
 
 ### 1.1 Description of the project
 
-The purpose of the SweLL infrastructure project was to set up an infrastructure for collection, digitization, normalization, and annotation of learner production, as well as to make available a linguistically annotated corpus, where it would be possible to search for various types of linguistic structures, without the researcher having to guess what such a structure might look like, since there is a parallel normalized version available. 
+The purpose of the SweLL infrastructure project was to set up an infrastructure for collection, digitization, normalization, and annotation of learner written production, as well as to make available a linguistically annotated corpus, where it would be possible to search for various types of linguistic structures, without the researcher having to guess what such a structure might look like, since there is a parallel normalized version available. 
 
 The SweLL infrastructure v1 consists of:
 
 * a data collection portal
 * annotation tools for L2 analysis
-* an annotated corpus of L2 production
+* an annotated corpus of L2 written production
 * specific search solutions for L2-material facilitating filtering for e.g. texts written by male writers or writers at a certain proficiency level.
 
 More information: [https://spraakbanken.gu.se/en/projects/swell](https://spraakbanken.gu.se/en/projects/swell)
@@ -88,14 +88,13 @@ ________________________________________________________________________________
 
 **Read the article**: https://nejlt.ep.liu.se/article/view/1374
 
-*Personal data management*: Essays were collected following a consent from the learners. The consent allows the use of essays for research by
+*Personal data management*: Essays and personal metadata were collected following a consent from the learners. The consent allows the use of essays for research by
 registered (approved) users. Handwritten essays were transcribed using secure encrypted environment (SweLL kiosk). All essays were manually
 **pseudonymized** (using SweLL kiosk) based on the Pseudonymization guidelines:
 
 [https://spraakbanken.github.io/swell-project/Pseudonymization\_guidelines](https://spraakbanken.github.io/swell-project/Pseudonymization_guidelines)
 
-*Mode*: All essays were written as an exam, in a classroom. Most of the essays were written by hand and were **transcribed** later according to
-the Transcription Guidelines:
+*Mode*: All essays were written in as an exam or in a classroom as placement, formative or final tests. Most of the essays were written by hand and were **transcribed** later according to the Transcription Guidelines:
 
 [https://spraakbanken.github.io/swell-project/Transcription\_guidelines](https://spraakbanken.github.io/swell-project/Transcription_guidelines)
 
@@ -150,10 +149,13 @@ ________________________________________________________________________________
 |Corpus mode|written language: essays collected from classroom/exam setting|
 |Annotation|transcription, pseudonymization, normalization, correction annotation, automatic linguistic annotation|
 |Written versions|One version of each essay (no several submissions of the same text)|
-|Longitudinal|not intentionally; but some recurrent students appear, see section 2.4|
-|Proficiency levels|(approximate) development levels based on course level: A:Beginner, B:Intermediate, C:Advanced, with additional marker "Fortsättning" (i.e. Continuation) added where necessary. Note the the order of the two descriptors always come in the alphabetical order, thus sometimes taking form of "Forsättning, Nybörjare" (i.e. Continuation, Beginner)|
+|Longitudinal|some recurrent students appear, see section 2.4 (schools with IDs _B, C, E, G, K_|
+|Proficiency levels|(approximate) development levels based on course level:|
+||A:Beginner --> Swedish for Immigrants (SFI)|
+||B:Intermediate --> Grundläggande vuxenutbildning (SVA)|
+||C:Advanced --> Gymnasiet; Universitetskurser; TISUS|
 |Proficiency level type|Course-level based|
-|Official language testing|mixed sources|
+|Official language testing|mixed sources, including some official testing, e.g. TISUS|
 |Comparison data (L1 source)|N/A|
 |**Corpus annotation info**||
 |Manual annotation|yes, pseudonymization, normalization, correction annotation|
@@ -175,7 +177,7 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
   | ***General*** |   |
   |:-------------|:--------------|
   | Student ID [*student ID / student_id*]| **451** unique students, e.g. **C16**. Letter prefix (for a school) + a running number |
-  | Age [*age / age*]| A 5-year age interval indicating the age at the moment of writing an essay, e.g. 31-35|
+  | Age [*age / age*]| A 5-year age interval indicating the age at the moment of writing an essay, e.g. 31-35. Ages 16-70 are represented|
   | Birth year in 5-year intervals [*birthyear_interval / birth year*]| 1950-1954 \-- 2000-2004 |
   | Gender [*gender / gender*]| Kvinna, Man, Annat, Vill inte säga |
   | Time in Sweden (sum in months) [*residence / time_in_sweden*]| 0 - 315 |
@@ -216,8 +218,8 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
 
 | ***Administrative Metadata*** |    |
 |:------------------|:------------------|
-| Task ID  | Task ID in the corpus. A letter prefix (for a school) +  **T**(ask) + a running number,  e.g. **AT14**. Total of 52  unique tasks |
-| Semester (time span) | **VT-2018, HT-2018, VT-2019** (more is coming!) |
+| Task ID  | Task ID in the corpus. A letter prefix (for a school) +  **T**(ask) + a running number,  e.g. **AT14**. Total of 44  unique tasks |
+| Semester (time span) | **VT-2018, HT-2018, VT-2019, HT-2019, VT-2020** |
 | Task date  [*task date / task_date*] | Year-week, e.g. **2018-W20**     |
  |Datum [*datum*]                  |Automatic Korp value, e.g. “2014-01-01”, in this case - a derivative of *task_date*. Datum is used by Korp search engine to create trend diagrams.|
 | Course type / school type [*school_type*]       | A generic description of the type of the school/education where essay has been collected from|
@@ -339,16 +341,16 @@ Explanatory term [*attribute name in Korp / attribute name in the xml file*]
   |:------------------|:---------------|:---------------- |
   |• Source [not available in Korp for filtering, but present in the xml files]|a letter indicating a school where the essays has been collected from, see the listing below|
   | A                | Vuxenutbildningscentrum | Inplacering SFI-utbildning: A-D |
-  | B                |  Gymnasieskola             ||      
+  | B                |  Gymnasieskola             |SVA|      
   | C                |  Komvux/SFI                    |  SFI A-D |
-  | E                |  Behörighetsgivande kurser     | motsv gymnasiet |
-  | F                |  Behörighetsgivande kurser     | motsv gymnasiet |
+  | E                |  Behörighetsgivande kurser / Universitetet    | motsv gymnasiet |
+  | F                |  Behörighetsgivande kurser / Universitetet    | motsv gymnasiet |
   | G                |  SFI-provet                    | SFI A-D |
   | H                |  TISUS-prov                    | motsv gymnasiet |
-  | J                |  Grundläggande vuxenutbildning   |    |
-  |K|Grundläggande SVA||
-  |L|SVA-kurser på gymnasienivå ||
-  |M|Prov för antagning och inplacering till förberedande respektive behörighetsgivande kurser ||
+  | J                |  Grundläggande vuxenutbildning   | SVA dk 1-4   |
+  |K|Grundläggande SVA| SVA dk 1-4 |
+  |L|SVA-kurser på gymnasienivå | vuxen utbildning |
+  |M|Prov för antagning och inplacering till förberedande respektive behörighetsgivande kurser / Universitetet | |
 
 
  
