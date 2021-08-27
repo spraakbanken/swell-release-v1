@@ -17,7 +17,8 @@ This repository contains (updatable) versions of the following files:-->
 **If approved:** 
 * Store application file on Nextcloud (folder SweLL-v1/SweLL_user_agreements)
 * Add Korp-user using [https://ws.spraakbanken.gu.se/](https://ws.spraakbanken.gu.se/) to *SweLL, SW1203, TISUS* and *SpIn* corpora
-* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), and mark "Read only" and - potentially - "Expiration date" (approx one month from the date you share). Use the following text and cc to *swell@svenska.gu.se*:
+* Add user-mail to the NextCloud-folder (for corpus file download, **SweLL_release_v1**), and mark "Read only". 
+* Mail the applicant. Use for example the following text and cc to *swell@svenska.gu.se*:
 
 -----
 
